@@ -6,7 +6,7 @@
 
 ##### PROPRIEDADES
 
-> ###### Comutativa
+###### Comutativa
 
 > ##### Elemento Neutro
 
