@@ -10,7 +10,7 @@
 
 > ##### Elemento Neutro
 
-##### Associativa
+> ##### Associativa
 
 > #### SUBTRAÇÃO
 
