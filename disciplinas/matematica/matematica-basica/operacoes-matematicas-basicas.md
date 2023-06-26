@@ -2,11 +2,11 @@
 
 ## Operações Matemáticas Básicas
 
-> ### ADIÇÃO
+> #### ADIÇÃO
 
-#### PROPRIEDADES
+##### PROPRIEDADES
 
-> ##### Comutativa
+> ###### Comutativa
 
 > ##### Elemento Neutro
 
