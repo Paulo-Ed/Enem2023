@@ -2,9 +2,9 @@
 
 ## Operações Matemáticas Básicas
 
-> #### ADIÇÃO
+> ### ADIÇÃO
 
-##### PROPRIEDADES
+#### PROPRIEDADES
 
 > ##### Comutativa
 
