@@ -2,8 +2,6 @@
 
 ## Conjuntos Numéricos
 
-
-
 > #### NÚMEROS NATURAIS
 * O conjunto dos números naturais é um subconjunto dos números inteiros, sendo composto por todos os números inteiros positivos.
 * Estrutura do conjunto de números naturais:
