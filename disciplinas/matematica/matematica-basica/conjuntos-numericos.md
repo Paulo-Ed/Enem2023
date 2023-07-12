@@ -53,10 +53,25 @@
 Ex: |3| = 3  
 Ex: |-10| = 10
 
-> #### NÚMEROS 
+> #### NÚMEROS RACIONAIS
+* O conjunto dos números racionais, é formado por todos os números que podem ser escritos em forma de fração, tanto positivos como negativos.
+* Ele contém todos os números do conjunto do números inteiros, sob a forma de uma razão (divisão).
+* Estrutura do conjunto de números racionais:
+   - Q = { ..., -2/1, ..., -1/4, -1/3, -1/2, -1/1, 0, 1/1, 1/2, 1/3, 1/4, ..., 2/1, ...}
 
+##### PROPRIEDADES
+* É composto por todos os números que podem ser representados na forma **n/d** em que **n** (numerador) e **d** (denominador) são números inteiros e **d** é ≠ **0**.
+* São outras formas de representar os números racionais, os números decimais e os números sob a forma de % (porcentagem) pois representam uma fração.
+* Entre dois números inteiros, existem infinitos números racionais.
+* Um número racional é a representação de uma parte do todo.
 
-> #### NÚMEROS
+Ex: 4 = 8/2  
+Ex: 0 = 0/3  
+Ex: 25% = 25/100  
+Ex: 0,5 = 5/10 = 1/2  
+Ex: -6 = -12/2
+
+> #### NÚMEROS IRRACIONAIS
 
 
 > #### NÚMEROS REAIS
