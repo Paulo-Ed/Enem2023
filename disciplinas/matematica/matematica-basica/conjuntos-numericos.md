@@ -61,7 +61,7 @@ Ex: |-10| = 10
 
 ##### PROPRIEDADES
 * É composto por todos os números que podem ser representados na forma **n/d** em que **n** (numerador) e **d** (denominador) são números inteiros e **d** é ≠ **0**.
-* São outras formas de representar os números racionais, os números decimais e os números sob a forma de % (porcentagem) pois representam uma fração.
+* São outras formas de representar os números racionais, os números decimais (em forma de dízima periódica) e os números sob a forma de % (porcentagem) pois representam uma fração.
 * Entre dois números inteiros, existem infinitos números racionais.
 * Um número racional é a representação de uma parte do todo.
 
