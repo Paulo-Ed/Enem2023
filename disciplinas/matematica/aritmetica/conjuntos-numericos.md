@@ -1,4 +1,4 @@
-# MATEMÁTICA BÁSICA
+# ARITMÉTICA
 
 ## Conjuntos Numéricos
 
@@ -12,7 +12,6 @@
 * O conjunto dos números naturais se inicia em **0** e se estende ao infinito.
 * Cada elemento é igual ao número que o antecede com o acrécimo de 1.
 * Todos os elementos que formam o conjunto dos números naturais, possuem um antecessor (anterior imediato) e um sucessor (posterior imediato) com exceção do número **0** que não possui antecessor.
-
 
 > #### NÚMEROS INTEIROS
 * O conjunto dos números inteiros é o conjunto de números positivos e negativos (sem parte decimal) e o número zero.
@@ -72,6 +71,5 @@ Ex: 0,5 = 5/10 = 1/2
 Ex: -6 = -12/2
 
 > #### NÚMEROS IRRACIONAIS
-
 
 > #### NÚMEROS REAIS
