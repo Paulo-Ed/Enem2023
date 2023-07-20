@@ -8,7 +8,9 @@
 * Cada termo da adição é chamado de **parcela**.
 * O resultado da adição é denominado **total** ou **soma**.
 * Representação da adição:
-  - parcela + parcela = soma
+  - parcela1 + parcela2 = soma
+* Prova real da adição:
+  - soma - parcela2 = parcela1
 
 ##### CÁLCULO
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
