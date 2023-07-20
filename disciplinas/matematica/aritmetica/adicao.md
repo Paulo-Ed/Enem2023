@@ -3,7 +3,7 @@
 ## Adição
 
 > #### ADIÇÃO DE NÚMEROS NATURAIS
-* É a adição é a junção (acréscimo) de dois ou mais elementos (números naturais) através de uma operação matemática.
+* A adição é a junção (acréscimo) de dois ou mais elementos (números naturais) através de uma operação matemática.
 * O simbolo **+** representa a operação de adição.
 * Cada termo da adição é chamado de **parcela**.
 * O resultado da adição é denominado **total** ou **soma**.
@@ -13,7 +13,7 @@
 ##### CÁLCULO
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Somar os algarismos de mesma ordem começando da casa das unidades.
-3. Para cada junção o resultado é um algarismo, sendo reagrupado para a próxima ordem o valor que exceder (maior que 9) ao teto da respectiva casa decimal (unidade, dezena, centena, ...).
+3. Para cada junção o resultado é um algarismo, sendo reagrupado para a próxima ordem o valor que exceder (maior que 9) o teto da respectiva casa decimal (unidade, dezena, centena, ...).
 4. Após a junção de todos os valores de acordo com sua ordem o resultado é a soma entre as parcelas. 
 
 Ex: 35 + 66 = 101  
@@ -27,7 +27,7 @@ Ex: 10 + 15 = 25
 Ex: 15 + 10 = 25  
 
 > ##### Associativa
-* A associação entre diferentes parcelas de uma adição para simplificar o cálculo, não interferem no resultado.
+* A associação (junção parcial) entre diferentes parcelas de uma adição para simplificar o cálculo, não interferem no resultado.
 
 Ex: (3 + 9) + 7 =  3 + (9 + 7)   
 
