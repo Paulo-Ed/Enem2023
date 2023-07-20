@@ -23,7 +23,7 @@ Ex: 35 + 66 = 101
 ##### PROPRIEDADES
 
 > ##### Comutativa
-* A ordem dos elementos de uma adição não altera o seu resultado.
+* A ordenação dos elementos de uma adição não altera o seu resultado.
 
 Ex: 10 + 15 = 25  
 Ex: 15 + 10 = 25  

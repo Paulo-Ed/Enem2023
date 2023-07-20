@@ -29,7 +29,7 @@ Ex: 27 - 18 => 20 (casa decimal mais próxima) falta 2 | soma-se o 2 ao minuendo
 ##### PROPRIEDADES
 
 > ##### Não Comutativa
-* A ordem dos elementos de uma subtração, não pode ser alterada pois mudará o seu resultado.
+* A ordenação dos elementos de uma subtração se alterada mudará o seu resultado.
 
 Ex: 60 - 45 = 15  
 Ex: 45 - 60 = -15 (não faz parte dos números naturais)  
