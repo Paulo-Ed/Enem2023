@@ -17,12 +17,14 @@
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Subtrair os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada subtração o resultado é um algarismo.
-4. Para o caso de o minuendo da ordem que se está subtraindo ser menor que o subtraendo, retira-se da ordem a esquerda 1 valor (dezena, centena, ...) e se acrescenta ao minuendo (soma) que está sendo subtraido (para que ele se torne maior que o subtraendo), após isso realiza-se a subtração, sendo que o valor retirado da ordem a esquerda é modificado em menos 1 casa da sua ordem (decimal, centena, ...).
-5. Após a retirada de todos os valores de acordo com sua ordem o resultado é a diferença. 
+4. Para o caso de o minuendo da ordem que se está subtraindo ser menor que o subtraendo, retira-se da ordem a esquerda 1 valor (dezena, centena, ...) e se acrescenta ao minuendo (soma) que está sendo subtraído (para que ele se torne maior que o subtraendo).
+5. Após isso realiza-se a subtração, sendo que o valor retirado da ordem a esquerda é modificado em menos 1 casa da sua ordem (decimal, centena, ...).
+6. Após a retirada de todos os valores de acordo com sua ordem o resultado é a diferença. 
 
-Ex: 78 - 29 = 49 => (ordem das unidades) 8 - 9 (minuendo é menor) | pega-se emprestado (ordem das dezenas) 70 - 10 = 60 | (ordem das unidades) 10 + 8 = 18 | (ordem das unidades) 18 - 9 = 9 | (ordem das dezenas) 60 - 20 = 40 (logo) = 49  
+Ex: 78 - 29 = 49 => (ordem das unidades) 8 - 9 (minuendo é menor) | pega-se emprestado (ordem das dezenas) 70 - 10 = 60 | adiciona o valor emprestado (ordem das unidades) 10 + 8 = 18 |
+realiza-se a subtração (ordem das unidades) 18 - 9 = 9 | realiza-se a subtração com o novo valor já descontado o valor emprestado (ordem das dezenas) 60 - 20 = 40 (logo) = 49  
 
-***DICA***: Quando o minuendo for menor que o subtraendo, basta contar quanto falta para o subtraendo chegar na casa decimal (10, 20, 30, 40, ...) mais próxima , o valor deve ser somado ao minuendo e ao subtraendo, que ficará menor que o minuendo, facilitando o cálculo da subtração.
+***DICA***: Quando o minuendo for menor que o subtraendo, basta contar quanto falta para o subtraendo chegar na casa decimal (10, 20, 30, 40, ...) mais próxima, o valor deve ser somado ao minuendo e ao subtraendo, que ficará menor que o minuendo, facilitando o cálculo da subtração.
 
 Ex: 27 - 18 => 20 (casa decimal mais próxima) falta 2 | soma-se o 2 ao minuendo (27 + 2) e ao subtraendo (18 + 2) | (logo) 27 - 18 => 29 - 20 = 9  
 
