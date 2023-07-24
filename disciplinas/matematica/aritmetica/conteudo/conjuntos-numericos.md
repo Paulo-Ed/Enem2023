@@ -5,7 +5,7 @@
 > #### NÚMEROS NATURAIS
 * O conjunto dos números naturais é o primeiro conjunto dos números que formam os conjuntos numéricos na matemática. Ele é utilizado para contar e ordenar coisas.
 * Ele é um subconjunto dos números inteiros, sendo composto por todos os números inteiros positivos.
-* Estrutura do conjunto de números naturais:
+* Representação do conjunto de números naturais:
    - N = { 0, 1, 2, 3, 4, ...}
 
 ##### PROPRIEDADES
@@ -16,7 +16,7 @@
 > #### NÚMEROS INTEIROS
 * O conjunto dos números inteiros é o conjunto de números positivos e negativos (sem parte decimal) e o número zero.
 * Esse conjunto contém todos os números naturais e também os seus opostos.
-* Estrutura do conjunto de números inteiros:
+* Representação do conjunto de números inteiros:
    - Z = { ..., -4, -3, -2, -1, 0, 1, 2, 3, 4, ...}
 
 ##### PROPRIEDADES
@@ -55,7 +55,7 @@ Ex: |-10| = 10
 > #### NÚMEROS RACIONAIS
 * O conjunto dos números racionais, é formado por todos os números que podem ser escritos em forma de fração, tanto positivos como negativos.
 * Ele contém todos os números do conjunto do números inteiros, sob a forma de uma razão (divisão).
-* Estrutura do conjunto de números racionais:
+* Representação do conjunto de números racionais:
    - Q = { ..., -2/1, ..., -1/4, -1/3, -1/2, -1/1, 0, 1/1, 1/2, 1/3, 1/4, ..., 2/1, ...}
 
 ##### PROPRIEDADES
