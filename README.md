@@ -1,5 +1,5 @@
 # ENEM
-Conjuntos dos principais conteúdos do ensino básico.
+Conjunto dos principais conteúdos do ensino básico.
 
 ## Sumário
 
