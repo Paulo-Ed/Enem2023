@@ -28,7 +28,7 @@ Ex: 35 + 66 = 101
 4. soma-se o valor reagrupado => 9 + 1 = 10
 5. (opção A1) adiciona o último algarismo e reagrupa o outro para a próxima ordem => 01
 6. (opção A2) repete-se o último algarismo já que não há valores a somar => 101
-7. (opção B)como não há mais algarismos pode-se adicionar diretamente os dois da última adição => 101
+7. (opção B) como não há mais algarismos pode-se adicionar diretamente os dois da última adição => 101
 8. logo o resultado => 101
 
 ##### PROPRIEDADES
@@ -120,7 +120,7 @@ Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)
   - a - 0 ≠ 0 - a
 
 Ex: 10 - 0 = 10  
-Ex: 0 - 10 = -10  
+Ex: 0 - 10 = -10 (não faz parte dos números naturais) 
 
 <br>
 
@@ -145,7 +145,7 @@ Ex: 0 - 10 = -10
 5. Após multiplicar todos os algarismos do segundo fator, pelos algarismos do primeiro fator realiza-se a adição dos resultados.
 6. O resultado da adição é o produto.
 
-Ex: 25 - 42 = 1050   
+Ex: 25 x 42 = 1050   
 1. multiplicação do primeiro algarismo do segundo fator na ordem das unidades => 5 x 2 = 10
 2. reagrupa-se o excedente para a ordem das dezenas => fica o 0 e vai 1 
 3. multiplicação do primeiro algarismo do segundo fator na ordem das dezenas e adição do excedente => 2 x 2 = 4 + 1 = 5
@@ -175,7 +175,7 @@ Ex: 4 x 2 = 8
 Ex: 2 x (4 + 5) = 2 x 4 + 2 x 5 
 
 > ##### Associativa
-* A associação (junção parcial) entre diferentes fatores de uma multiplicação para simplificar o cálculo, não interferem no resultado.
+* A associação (multiplicação parcial) entre diferentes fatores de uma multiplicação para simplificar o cálculo, não interferem no resultado.
 * Representação da associativa:
   - (a x b) x c = a x (b x c)
 
@@ -197,3 +197,84 @@ Ex: 1 x 4 = 4
 Ex: 10 x 0 = 0  
 Ex: 0 x 7 = 0  
 
+<br>
+
+## Divisão
+
+> #### DIVISÃO DE NÚMEROS NATURAIS
+* A divisão é a operação matemática que faz a separação de um valor em partes, de acordo com um outro valor, sendo a operação inversa a multiplicação.
+* Ela mensura quantas vezes um valor (segundo valor), cabe dentro de outro valor (primeiro valor), ou seja, quantos grupos com a quantidade do segundo valor podem ser formados com a quantidade do primeiro valor.
+* Os simbolos **÷**, **/** e **:** (dividido) representam a operação de divisão.
+* Os termos da divisão são o ***dividendo*** (valor a ser dividido) e ***divisor*** (quantidade de partes que o dividendo deve ser fracionado).
+* O resultado da divisão é denominado **quociente** e o valor que sobra da divisão é chamado de ***resto***.
+* No conjunto de números naturais o dividendo nunca pode ser menor que o divisor e a divisão de dois números pode ser exata (resto igual a zero) ou não exata (resto maior que zero).
+* Representação da divisão:
+  - dividendo ÷ divisor = quociente
+* Prova real da divisão:
+  - quociente x divisor + resto = dividendo
+
+##### CÁLCULO
+1. A divisão é feita da esquerda para a direita, pegando sempre o primeiro algarismo (de maior ordem) do dividendo em que seja possível dividir pelo divisor.
+2. Determina-se um número que multiplicado pelo divisor seja igual ou o mais próximo do dividendo.
+3. O valor encontrado é adicionado como um algarismo do quociente.
+4. Se o valor for menor que o dividendo, realiza-se a subtração e continua-se a divisão com o resto.
+5. Se o resto for menor que o divisor e ainda existirem algarismos no dividendo adiciona-se ao resto.
+6. Se o valor for igual ao dividendo e não houver mais algarismos a serem divididos, finaliza-se a operação. Se existir um ou mais algarismos 0 no dividendo adiciona-se esses zeros ao quociente e finaliza-se a divisão.
+7. Quando não houver mais algarismos a serem divididos, ou quando o valor do dividendo for menor que o divisor, finaliza-se a divisão.
+8. O valor encontrado no quociente, será o resultado.
+
+Ex: 232 : 8 = 29
+1. divisão do dividendo, o separando em uma parte menor => 23'2
+2. divisão do dividendo pelo divisor => 23 : 8 
+3. para realizar a divisão deve-se encontrar o valor que multiplicado pelo divisor seja igual ou próximo do dividendo => 8 x 2 = 16 (quociente vai 2)
+4. subtração do dividendo pelo resultado da multiplicação => 23 - 16 = 7 (resto)
+5. desce o próximo algarismo e o adiciona ao resto => 72
+6. divisão do novo valor => 72 : 8
+7. para realizar a divisão deve-se encontrar valor que multiplicado pelo divisor seja igual ou próximo do dividendo => 8 x 9 = 72 (quociente vai 9)
+8. subtração do dividendo pelo resultado da multiplicação => 72 - 72 = 0
+9. como não há mais algarismos a dividir, finaliza-se a divisão
+10. logo resultado = 29
+
+##### PROPRIEDADES
+
+> ##### Não Comutativa
+* A ordenação dos elementos de uma divisão altera o seu resultado.
+* Representação da não comutativa:
+  - a / b ≠ b / a
+
+Ex: 10 : 5 = 2   
+Ex: 5 : 10 = 0.5 (não faz parte dos números naturais) 
+
+> ##### Não Associativa
+* A associação (divisão parcial) entre diferentes elementos de uma divisão para simplificar o cálculo, geram resultados diferentes.
+* Representação da não associativa:
+  - (a : b) : c ≠ a : (b : c)
+
+Ex: (12 : 2) : 2 = 3     
+Ex: 12 : (2 : 2) =  12     
+
+> ##### Igualdade de Múltiplos
+* O quociente da divisão é o mesmo para os múltiplos do dividendo e do divisor.
+* Representação da igualdade dos múltiplos:
+  - a : b = (a x c) : (b x c)
+
+Ex: 4 : 2 = 2  
+Ex: 4 x 3 : 2 x 3 = 2   
+
+> ##### Elemento Neutro
+* Em um divisão o quociente de uma divisão por 1 é sempre o valor do dividendo. E quando o dividendo e o divisor forem iguais o quociente sempre será 1.
+* Representação do elemento neutro:
+  - a / 1 = a
+  - a / a = 1
+
+Ex: 35 / 1 = 35  
+Ex: 69 : 69 = 1  
+
+> ##### Elemento Zero
+* Quando o zero for o dividendo de uma divisão o resultado sempre será zero. Quando se trata da divisão de um valor por zero, essa divisão não existe (indeterminado).
+* Representação do elemento zero:
+  - 0 : a = 0
+  - a : 0 = ? (não existe)
+
+Ex: 0 x 4 = 0  
+Ex: 3 x 0 = ?  
