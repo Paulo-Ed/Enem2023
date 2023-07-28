@@ -189,7 +189,7 @@ Ex: (2 x 5) x 4  =  2 x (4 x 5)
 Ex: 10 x 1 = 10  
 Ex: 1 x 4 = 4  
 
-> ##### Elemento Nulo
+> ##### Elemento Zero
 * O zero é o elemento nulo de uma multiplicação pois, todo número multiplicado por zero é igual a zero.
 * Representação do elemento nulo:
   - a x 0 = 0
