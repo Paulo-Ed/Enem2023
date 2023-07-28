@@ -16,6 +16,15 @@ Estudo das operações numéricas.
   - n = expoente
   - a . a . a . a ... a = potência (produto de n fatores iguais)
 
+##### CÁLCULO
+1. Identifica-se o valor da base e do expoente.
+2. Multiplica-se a base o número de vezes correspondente ao expoente.
+3. O resultado da multiplicação é a potência.
+
+Ex: 2<sup>4</sup> = 16
+1. multiplica-se a base 2 o 4 de vezes => 2 . 2 . 2 . 2 = 16
+2. logo o resultado = 16
+
 ##### PROPRIEDADES
 
 > ##### ELEMENTO UM

@@ -115,7 +115,7 @@ Ex: 45 - 60 = -15 (não faz parte dos números naturais)
 Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)   
 
 > ##### Elemento Neutro
-* O zero é o elemento neutro, porém a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso.
+* O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso.
 * Representação do elemento neutro falso:
   - a - 0 ≠ 0 - a
 
@@ -190,8 +190,8 @@ Ex: 10 x 1 = 10
 Ex: 1 x 4 = 4  
 
 > ##### Elemento Zero
-* O zero é o elemento nulo de uma multiplicação pois, todo número multiplicado por zero é igual a zero.
-* Representação do elemento nulo:
+* Em uma multiplicação, todo número multiplicado por zero é igual a zero.
+* Representação do elemento zero:
   - a x 0 = 0
 
 Ex: 10 x 0 = 0  
