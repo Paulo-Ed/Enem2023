@@ -29,7 +29,7 @@ Ex: √16 = 4
 
 ##### PROPRIEDADES
 
-> ##### RAÍZ DE POTÊNCIA COM EXPOENTE IGUAL
+> ##### Raíz de Potência com Expoente Igual
 * A raíz de uma potência em que o expoente da base é igual ao índice do radicando, tem como resultado o próprio radicando.
 * Representação da raíz de potência:
   - <sup>n</sup>√a<sup>n</sup> = a
@@ -37,7 +37,7 @@ Ex: √16 = 4
 Ex: <sup>2</sup>√2<sup>2</sup> = 2  
 Ex: <sup>3</sup>√3<sup>3</sup> = 3  
 
-> ##### RAÍZ DO PRODUTO DO RADICANDO
+> ##### Raíz do Produto do Radicando
 * Se o radicando de uma raíz for correspondente ao produto de dois fatores, pode-se separar a raíz, como o produto das raízes enésimas de cada fator.
 * Representação da raíz do produto do radicando:
   - <sup>n</sup>√a = <sup>n</sup>√b . c = <sup>n</sup>√b . <sup>n</sup>√c
@@ -45,7 +45,7 @@ Ex: <sup>3</sup>√3<sup>3</sup> = 3
 Ex: √400 = √ 4 . 100 = √4 . √100  
 Ex: √16 = √ 4 . 4 = √4 . √4
 
-> ##### OPERAÇÕES ENTRE ÍNDICE E EXPOENTE EM UMA RAÍZ
+> ##### Operações Entre Índice e Expoente em uma Raíz
 * Pode-se multiplicar ou dividir o índice da raíz, se o mesmo for feito com o expoente do radicando, que não ocorrerá mudança no resultado.
 * Representação de operações entre o índice e o expoente em uma raíz:
   - <sup>n</sup>√a<sup>m</sup> = <sup>n . k</sup>√a<sup>m . k</sup>
