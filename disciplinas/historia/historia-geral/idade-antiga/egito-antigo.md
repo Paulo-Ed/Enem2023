@@ -1,7 +1,7 @@
 # IDADE ANTIGA
 
 ## Egito
-* Foi uma das mais importantes civilizações da antiguidade.
+* Foi uma das mais importantes civilizações da antiguidade. Tem origem em 3200 a.C. e seu declínio em 32 a.C.
 * O Egito antigo era formado por diversos povos, divididos em clãs chamados nomos e funcionavam como pequenos estados independentes. Esse período é chamado de era pré-dinástica.
 * Por volta de 3500 a.C. os nomos se uniram formando os reinos do Baixo Egito (ao Norte) e do Alto Egito (ao Sul).
 * Em 3200 a.C. os reinos foram unificados por Menés, rei do Alto Egito, tornando-se o primeiro faraó e sua primeira dinastia. Esse período é chamado de antigo império.
@@ -11,17 +11,18 @@
 > #### SOCIEDADE
 * A civilização egípcia era uma teocrácia.
 * A sociedade era dividida de forma hierárquica e rígida.
-* No alto nível social, existia o Faraó, como liderança política e religiosa, considerado como o prório deus.
+* No alto nível social, existia o Faraó, como liderança política, militar e religiosa, considerado como o prório deus.
 * Entre as camadas privilegiadas também existiam os sacerdotes, nobres e funcionários.
-* Por fim vinham os artesãos, camponeses, soldados e escravizados.
+* Por fim vinham os artesãos, camponeses, soldados e escravizados de guerra.
 * Na sociedade egípcia, as mulheres eram iguais aos homens, podendo inclusive se tornar faraós.
 
 > #### CULTURA
 * Os Egípcios eram politeístas sendo uma sociedade com forte influência da religião.
 * Utilizavam o calendário a partir do movimento do sol com 365 dias e 24 horas.
 * Desenvolvimento de tratamentos medicinais.
-* Criação de escrita baseada em hieroglifos.
+* Utilizavam três tipos de escrita: a hieroglífica (túmulos e templos), a hierática (simplificação da hieroglífica) e a demótica (escritos comuns).
 * Construção de grandes templos e pirâmides como as famosas pirâmides de Gizé.
+* A arte era atrelada ao poder do estado, abordando o Faraó e entidades religiosas no antigo império, porém mudou como as mudanças da sociedade com o novo império.
 
 > #### ECONOMIA
 * Tinha como maior fonte o rio Nilo, que criava grandes áreas férteis em sua margens.
@@ -29,5 +30,6 @@
 * Também criavam animais como: bois, cabras, burros e porcos.
 * O rio Nilo também era a fonte de pesca e via de comunicação entre as diferentes regiões.
 * Desenvolveram sistemas de medida e contagem que facilitavam a mensuração do recolhimento de impostos.
+* Seu comércio era baseado em trocas comerciais com outras civilizações.
 * Os camponeses eram obrigados a ceder parte da sua produção para o estado, já que a terra era de propriedade do Faraó.
 * O estado era responsável pela construção de infraestrutura como diques, reservatórios e canais de irrigação.
