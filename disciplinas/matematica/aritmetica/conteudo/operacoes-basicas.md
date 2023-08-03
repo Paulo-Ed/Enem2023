@@ -48,7 +48,7 @@ Ex: 15 + 10 = 25
 
 Ex: (3 + 9) + 7 =  3 + (9 + 7)   
 
-> ##### Elemento Neutro
+> ##### Elemento neutro
 * O zero é o elemento neutro de uma adição, pois não modifica o seu resultado. Sendo assim todo número somado a zero é o próprio número.
 * Representação do elemento neutro:
   - a + 0 = a
@@ -99,7 +99,7 @@ Ex: 27 - 18 = 9
 
 ##### PROPRIEDADES
 
-> ##### Não Comutativa
+> ##### Não comutativa
 * A ordenação dos elementos de uma subtração se alterada mudará o seu resultado.
 * Representação da não comutativa:
   - a - b ≠ b - a
@@ -107,14 +107,14 @@ Ex: 27 - 18 = 9
 Ex: 60 - 45 = 15  
 Ex: 45 - 60 = -15 (não faz parte dos números naturais)  
 
-> ##### Não Associativa
+> ##### Não associativa
 * A associação entre diferentes partes de uma subtração para simplificar o cálculo, não pode ser feita, pois altera o resultado.
 * Representação da não associativa:
   - (a - b) - c ≠ a - (b - c)
 
 Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)   
 
-> ##### Elemento Neutro
+> ##### Elemento neutro
 * O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso.
 * Representação do elemento neutro falso:
   - a - 0 ≠ 0 - a
@@ -181,7 +181,7 @@ Ex: 2 x (4 + 5) = 2 x 4 + 2 x 5
 
 Ex: (2 x 5) x 4  =  2 x (4 x 5)   
 
-> ##### Elemento Neutro
+> ##### Elemento neutro
 * O um é o elemento neutro de uma multiplicação, dessa forma todo número multiplicado por um é igual ao prório número.
 * Representação do elemento neutro:
   - a x 1 = a
@@ -189,7 +189,7 @@ Ex: (2 x 5) x 4  =  2 x (4 x 5)
 Ex: 10 x 1 = 10  
 Ex: 1 x 4 = 4  
 
-> ##### Elemento Zero
+> ##### Elemento zero
 * Em uma multiplicação, todo número multiplicado por zero é igual a zero.
 * Representação do elemento zero:
   - a x 0 = 0
@@ -237,7 +237,7 @@ Ex: 232 : 8 = 29
 
 ##### PROPRIEDADES
 
-> ##### Não Comutativa
+> ##### Não comutativa
 * A ordenação dos elementos de uma divisão altera o seu resultado.
 * Representação da não comutativa:
   - a / b ≠ b / a
@@ -245,7 +245,7 @@ Ex: 232 : 8 = 29
 Ex: 10 : 5 = 2   
 Ex: 5 : 10 = 0.5 (não faz parte dos números naturais) 
 
-> ##### Não Associativa
+> ##### Não associativa
 * A associação (divisão parcial) entre diferentes elementos de uma divisão para simplificar o cálculo, geram resultados diferentes.
 * Representação da não associativa:
   - (a : b) : c ≠ a : (b : c)
@@ -253,7 +253,7 @@ Ex: 5 : 10 = 0.5 (não faz parte dos números naturais)
 Ex: (12 : 2) : 2 = 3     
 Ex: 12 : (2 : 2) =  12     
 
-> ##### Igualdade de Múltiplos
+> ##### Igualdade de múltiplos
 * O quociente da divisão é o mesmo para os múltiplos do dividendo e do divisor.
 * Representação da igualdade dos múltiplos:
   - a : b = (a x c) : (b x c)
@@ -261,7 +261,7 @@ Ex: 12 : (2 : 2) =  12
 Ex: 4 : 2 = 2  
 Ex: 4 x 3 : 2 x 3 = 2   
 
-> ##### Elemento Neutro
+> ##### Elemento neutro
 * Em um divisão o quociente de uma divisão por 1 é sempre o valor do dividendo. E quando o dividendo e o divisor forem iguais o quociente sempre será 1.
 * Representação do elemento neutro:
   - a / 1 = a
@@ -270,7 +270,7 @@ Ex: 4 x 3 : 2 x 3 = 2
 Ex: 35 / 1 = 35  
 Ex: 69 : 69 = 1  
 
-> ##### Elemento Zero
+> ##### Elemento zero
 * Quando o zero for o dividendo de uma divisão o resultado sempre será zero. Quando se trata da divisão de um valor por zero, essa divisão não existe (indeterminado).
 * Representação do elemento zero:
   - 0 : a = 0

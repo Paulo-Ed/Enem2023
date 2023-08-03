@@ -7,4 +7,5 @@
 * [Radiciação](conteudo/radiciacao.md)
 * [Conjuntos Numéricos](conteudo/conjuntos-numericos.md)
 * [Expressões Numéricas](conteudo/expressoes-numericas.md)
+* [Relações Numéricas](conteudo/relacoes-numericas.md)
 
