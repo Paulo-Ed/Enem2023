@@ -3,6 +3,6 @@
 ## Sumário
 
 * [Mesopotâmia](mesopotamia.md)
-* [Egito Antigo](egito-antigo.mdmd)
-* [Grécia Antiga](grecia-antiga.mdmd)
-* [Roma Antiga](roma-antiga.mdmd)
+* [Egito Antigo](egito-antigo.md)
+* [Grécia Antiga](grecia-antiga.md)
+* [Roma Antiga](roma-antiga.md)
