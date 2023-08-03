@@ -50,7 +50,7 @@ Ex: D(16)= {1, 2, 4, 8, 16}
 3. para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo => 4 . 4 = 16
 
 > #### DIVISIBILIDADE
-* Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro.
+* Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
 
 ##### DIVISIBILIDADE POR DOIS
 * Um número é divisível por dois, quando o algarismo das unidades desse número for um número par, ou seja, quando o número termina em: zero, dois, quatro, seis ou oito.
@@ -65,7 +65,7 @@ Ex: 234 (é divisível)
 Ex: 33 (não é divisível)  
 
 ##### DIVISIBILIDADE POR QUATRO
-* Um número é divisível por quatro, quando os dois últimos algarismos forem um zero, ou quando a soma dos dois últimos algarismos for um número divisível por quatro.
+* Um número é divisível por quatro, quando os dois últimos algarismos forem um zero, ou quando a soma dos dois últimos algarismos formarem um número divisível por quatro.
 
 Ex: 1500 (é divisível)  
 Ex: 1031 (não é divisível)  
@@ -77,7 +77,53 @@ Ex: 50 (é divisível)
 Ex: 11 (não é divisível)  
 
 ##### DIVISIBILIDADE POR SEIS
-* Um número é divisível por seis, quanto ele for divisível por dois e por três ao mesmo tempo.
+* Um número é divisível por seis, quando ele for divisível por dois e por três ao mesmo tempo.
 
 Ex: 132 (é divisível)  
 Ex: 44 (não é divisível)  
+
+##### DIVISIBILIDADE POR OITO
+* Um número é divisível por oito, quando seus três últimos algarismos forem zero, ou ainda quanto a soma dos três últimos algarismos formarem um número divisível por oito.
+
+Ex: 28000 (é divisível)  
+Ex: 244 (não é divisível)  
+
+##### DIVISIBILIDADE POR NOVE
+* Um número é divisível por nove, quando a soma dos algarismos que o formam, for um número divisível por nove.
+
+Ex: 819 (é divisível)  
+Ex: 37 (não é divisível)  
+
+##### DIVISIBILIDADE POR DEZ
+* Um número é divisível por dez, quando ele terminar em zero.
+
+Ex: 1260 (é divisível)  
+Ex: 505 (não é divisível)  
+
+##### DIVISIBILIDADE POR ONZE
+* Um número é divisível por onze, quando a diferença entre a soma dos algarismos que o formam de posição ímpar e a soma dos algarismos que o formam de posição par, resultarem em zero, ou em um número divisível por onze.
+
+Ex: 209 (é divisível)  
+1. soma-se os algarismos ímpares => 9 + 2 = 11
+2. soma-se os algarismos pares => 0 = 0
+3. realiza-se a subtração entre os dois resultados => 11 - 0 = 11
+4. o resultado da diferença é divisível por onze => 11 : 11 = 1
+
+Ex: 411 (não é divisível)  
+
+##### DIVISIBILIDADE POR QUINZE
+* Um número é divisível por quinze, quanto ele for divisível por tês e por cinco ao mesmo tempo.
+
+Ex: 900 (é divisível)  
+Ex: 155 (não é divisível)  
+
+##### DIVISIBILIDADE DE NÚMEROS COMPOSTOS
+* A divisibilidade de números compostos é determinada pelos critérios de divisibilidade da composição da multiplicação dos números que o formam, pois eles não possuem critérios próprios de divisibilidade.
+* Pode-se verificar a divisibilidade de qualquer número composto identificando quais números multiplicados resultam no número, quais os critérios de divisibilidade desses números e aplicar ao número que se deseja dividir esses critérios.
+
+Ex: 12000 : 24 (é divisível)
+1. verificar os números que formam o vinte e quatro e seus critérios de divisibilidade => 24 = 8 . 3
+2. é possível por vinte e quatro, quando atender aos critérios de divisibilidade de oito e três.
+3. (divisibilidade por três) soma dos algarismos ser divisível por três => 1 + 2 + 0 + 0 + 0 = 3 (é divisível)
+4. (divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
+5. logo é possível dividir => 12000 : 24 = 500
