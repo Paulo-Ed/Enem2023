@@ -1,3 +1,0 @@
-# IDADE ANTIGA
-
-## Egito

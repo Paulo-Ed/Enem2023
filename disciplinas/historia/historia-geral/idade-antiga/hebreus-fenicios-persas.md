@@ -1,6 +1,0 @@
-
-> #### HEBREUS
-
-> #### FENÍCIOS
-
-> #### PERSAS

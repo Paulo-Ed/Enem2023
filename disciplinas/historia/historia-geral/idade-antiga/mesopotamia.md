@@ -58,3 +58,23 @@
 * Viviam da agropecuária, mineração, artesanado e impostos cobrados dos povos subjugados.
 * A religião era o Zoroastrismo, de caráter dualista a partir da fusão de diferentes crenças.
 * Teve seu fim após a derrota de Dario III para Alexandre o grande.
+
+> #### HEBREUS
+* Povo nômade que vivia principalmente da criação de gado.
+* Originalmente da Mesopotâmia, por volta de 2000 a.C. se deslocaram para a atual Palestina, sob liderança de Abraão.
+* Após o estabelecimento na região da Palestina, a principal atividade econômia do povo hebraico passou a ser a agricultura.
+* Eram moneteístas, tendo como religião o judaísmo.
+* Em relação a estrutura política, inicialmente foram governados por pratriarcas, depois por juízes e por fim por reis.
+* Após a morte do rei Salomão, o reino foi fragmentado em dois, o de israel e judá.
+* Os territórios dos hebreus foram conquistados por Assírios e Babilônicos.
+* Após a destruição da capital Jerusalém pelos Caldeus o povo se dispersou, gerando o movimento conhecido como diáspora judaica.
+
+> #### FENÍCIOS
+* Se estabeleceram no norte da atual Palestina, próximo ao mar mediterrâneo.
+* Eram conhecidos como povo do mar, se destacando como grandes mercadores marítimos.
+* Os fenícios eram politeístas, possuindo rituais de sacrifícios de animais.
+* Na economia, trabalhavam o vidro, tingimento de tecidos, tinham plantações de uva e azeitonas, mas sua principal atividade era a pesca e o comércio marítimo.
+* Os povos fenícios eram formados por cidades-estado independentes e o poder político vinha do domínio do mar, chamado de talassocracia.
+* Entre os elementos culturais, está a cunhagem de moedas e o uso da música e da dança nos rituais religiosos.
+* Sua maior herança foi o alfabeto fenício, uma das origens do alfabeto ocidental.
+* Com a conquista de Ciro II, os fenícios fugiram da região e formaram Cartago. Essa posteriormente foi destruída pelos romanos nas guerras púnicas.
