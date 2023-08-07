@@ -3,7 +3,7 @@ Estudo das operações numéricas.
 
 <br>
 
-## Múltiplos, Divisores e Divisibilidade
+## Relações Numéricas
 
 > #### MÚLTIPLOS DE UM NÚMERO
 * Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números inteiros.
@@ -127,3 +127,28 @@ Ex: 12000 : 24 (é divisível)
 3. (divisibilidade por três) soma dos algarismos ser divisível por três => 1 + 2 + 0 + 0 + 0 = 3 (é divisível)
 4. (divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
 5. logo é possível dividir => 12000 : 24 = 500
+
+> #### NÚMEROS PRIMOS
+* Número primo, é todo número divisível apenas por um e por ele mesmo.
+* O conjunto dos números primos é um conjunto infinito.
+* O número um não é considerado um número primo.
+* O número dois, é o único número primo par.
+* Os números primos são fundamentais no entendimento da aritmética. É possível determinar a representação de qualquer número inteiro, por meio de números primos, processo esse, chamado de decomposição em fatores primos.
+* Representação do conjunto de números primos:
+  - P = {2, 3, 5, 7, 11, ...}
+
+> #### NÚMEROS COMPOSTOS
+* Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
+* Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto de números primos que o forma.
+
+##### DECOMPOSIÇÃO EM NÚMEROS PRIMOS
+* É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
+* O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número um.
+* Representação da decomposição:
+  - n : p = A tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e A = produto entre os elementos de p.
+
+Ex: Decomposição de 30 = 2 . 3 . 5
+1. dividir por dois => 30 : 2 = 15
+2. como não é possível dividir por dois, dividi-se pelo próximo número primo o três => 15 : 3 = 5
+3. divide-se agora por cinco => 5 : 5 = 1
+4. o produto dos quocientes é o resultado = 2 . 3 . 5 
