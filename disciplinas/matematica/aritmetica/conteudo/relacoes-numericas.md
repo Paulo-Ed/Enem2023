@@ -148,7 +148,7 @@ Ex: 12000 : 24 (é divisível)
   - n : p = A tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e A = produto entre os elementos de p.
 
 Ex: Decomposição de 30 = 2 . 3 . 5
-1. dividir por dois => 30 : 2 = 15
-2. como não é possível dividir por dois, dividi-se pelo próximo número primo o três => 15 : 3 = 5
-3. divide-se agora por cinco => 5 : 5 = 1
+1. dividir por 2 => 30 : 2 = 15
+2. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : 3 = 5
+3. divide-se agora por 5 => 5 : 5 = 1
 4. o produto dos quocientes é o resultado = 2 . 3 . 5 
