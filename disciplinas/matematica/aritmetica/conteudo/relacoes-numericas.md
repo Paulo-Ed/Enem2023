@@ -152,3 +152,53 @@ Ex: Decomposição de 30 = 2 . 3 . 5
 2. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : 3 = 5
 3. divide-se agora por 5 => 5 : 5 = 1
 4. o produto dos quocientes é o resultado = 2 . 3 . 5 
+
+> #### MMC
+* Mínimo múltiplo comum, é o menor número que é múltiplo de dois ou mais números ao mesmo tempo. 
+* O MMC de dois números ***a*** e ***b***, também representa o menor valor que pode ser dividido por ***a*** e ***b*** ao mesmo tempo.
+* O MMC é determinado a partir da decomposição dos valores em fatores primos.
+
+##### CÁLCULO
+1. Organiza-se os números a esquerda lado a lado.
+2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números, colocando o quociente a direita.
+3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
+4. O quociente da divisão (número primo) também é ordenado um abaixo do outro para cada divisão.
+5. Quando não for possível dividir mais pelo número primo, passa-se para o próximo número primo em que é possível realizar a divisão.
+6. Quando todos os números forem reduzidos a um, termina-se a decomposição.
+7. Multiplica-se os quocientes da decomposição (números primos).
+8. O resultado da multiplicação é o MMC.
+
+Ex: MMC de 30 e 14 = 210
+1. dividir por 2 => 30 : ***2*** = 15, 14 : ***2*** = 7
+2. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 7 : ***3*** não divide, repete-se o 7
+3. divide-se agora por 5 => 5 : ***5*** = 1, 7 : ***5*** não divide, repete-se o 7
+4. divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
+5. o produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
+
+***DICA***: O MMC de dois ou mais valores em que um dos números é um número primo, o MMC dos dois valores será o produto entre esses dois valores.
+
+***DICA***: Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede que dois ou mais eventos ocorram ao mesmo tempo.
+
+> #### MDC
+* Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
+* O MDC de dois números ***a*** e ***b***, é o maior valor que divide ***a*** e ***b*** ao mesmo tempo.
+* O MDC é determinado a partir da decomposição dos valores em fatores primos.
+
+##### CÁLCULO
+1. Organiza-se os números a esquerda lado a lado.
+2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números.
+3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
+4. O quociente da divisão (número primo) também é ordenado um abaixo do outro para cada divisão.
+5. Quando não for possível dividir mais pelo número primo, passa-se para o próximo número primo em que é possível realizar a divisão.
+6. Quando todos os números forem reduzidos a um, termina-se a decomposição.
+7. Multiplica-se os quocientes da decomposição (números primos) em que foi possível dividir todos os números ao mesmo tempo.
+8. O resultado da multiplicação é o MDC.
+
+Ex: MDC de 30 e 12 = 6
+1. dividir por 2 => 30 : ***2*** = 15, 12 : ***2*** = 6 (divisor comum)
+2. dividir por 2 => 15 : ***2*** não divide, repete-se o 15, 6 : ***2*** = 3
+3. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 3 : ***3*** = 1 (divisor comum)
+4. divide-se agora por 5 => 5 : ***5*** = 1, 1 : ***5*** repete-se o 1
+5. o produto dos divisores comuns é o resultado => 2 . 3 = 6
+
+***DICA***: Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo.
