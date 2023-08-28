@@ -27,9 +27,7 @@
 
 ## Titulo
 
-> ### TÍTULO
-
-#### Titulo
+#### TÍTULO
 
 ##### TÍTULO
 
