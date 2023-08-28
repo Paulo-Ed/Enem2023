@@ -67,8 +67,8 @@ Ex: 3/9 = 0,333...
 ## Operações com Frações
 
 > #### ADIÇÃO DE FRAÇÕES
-* É a junção de duas ou mais frações com denominadores iguais. obs: COLOCAR SOMA DE NUMERO INTEIRO COM FRAÇÃO
 * Para frações com diferentes denominadores é preciso realizar a transformação de seus denominadores em denominadores iguais.
+* Para soma entre um inteiro e uma fração o denominador da parte inteira sempre será 1.
 * Representação da adição de frações:
   - a/d + b/d = c/d
   - a + b/c = (d:1 . a)/d + (d:c . b)/d
@@ -88,7 +88,30 @@ Ex: 3/9 = 0,333...
 11. O resultado da adição será a soma.
 
 > #### SUBTRAÇÃO DE FRAÇÕES
+* Para frações com diferentes denominadores é preciso realizar a transformação de seus denominadores em denominadores iguais.
+* Para subtração entre um inteiro e uma fração o denominador da parte inteira sempre será 1.
+* Representação da subtração de frações:
+  - a/d - b/d = c/d
+  - a - b/c = (d:1 . a)/d - (d:c . b)/d
+  - d = MMC(1, c)
+
+##### CÁLCULO
+1. Verifica-se o valor dos denominadores de cada fração.
+2. Para denominadores iguais, repete-se o denominador e soma-se os numeradores de cada fração.
+3. Se for possível simplifica-se a fração resultante.
+4. Para frações com denominadores diferentes, é preciso calcular o MMC entre eles.
+5. O MMC será então o novo denominador.
+6. O resultado do MMC também deve ser dividido pelo denominador de cada fração e o seu resultado multiplicado pelo numerador de cada fração.
+7. O resultado da operação de cada fração será o novo valor de cada numerador das frações.
+8. Após isso subtrai-se os novos numeradores.
+9. Se for possível simplifica-se a fração resultante.
 
 > #### MULTIPLICAÇÃO DE FRAÇÕES
-
+* Basta multiplicar os numeradores entre si e os denominadores entre si.
+* Representação da multiplicação de frações:
+  - a/b . c/d = a . c/ b . d
+ 
 > #### DIVISÃO DE FRAÇÕES
+* Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.
+* Representação da subtração de frações:
+  - a/b : c/d = a/b . d/c 
