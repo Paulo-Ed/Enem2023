@@ -141,7 +141,7 @@ Ex: 12000 : 24 (é divisível)
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
 * Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto de números primos que o forma.
 
-##### DECOMPOSIÇÃO EM NÚMEROS PRIMOS
+##### DECOMPOSIÇÃO EM NÚMEROS PRIMOS OU FATORAÇÃO NUMÉRICA
 * É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
 * O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número um.
 * Representação da decomposição:
