@@ -23,14 +23,14 @@
 
 ###### Titulo
 
-# Titulo
+# TÍTULO
 
 ## Titulo
 
-> ### Titulo
+> ### TÍTULO
 
 #### Titulo
 
-##### Titulo
+##### TÍTULO
 
 ###### Titulo
