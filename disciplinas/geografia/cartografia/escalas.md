@@ -1,9 +1,24 @@
-Tipos:
+TIPOS:
 - escala gráfica (régua)
 - escala numérica (1:500000)
 
-Cálculo:
-Escala = Distância real : distância do mapa
+FÓRMULAS:
+1. Descobrir Escala
+
+E = d/D
+E => Escala
+d => Distância mapa
+D => Distância real
+OBS: As distâncias devem estar na mesma unidade de medida.
+
+2. Descobrir distância real
+
+D = E . d
+
+2. Descobrir distância do mapa
+
+d = D/E
+
 
 Confira um exemplo:
 
@@ -18,6 +33,6 @@ E = 1cm/2000cm
 
 Portanto, a escala é 1:2000.
 
-Tamanho Escalas:
-- grande (representa uma área menor com mais detalhes) 
-- pequena (representa uma ára maior com menos detalhes)
+TAMANHO ESCALAS:
+- grande (representa uma área menor com mais detalhes) => menor denominador
+- pequena (representa uma ára maior com menos detalhes) => maior denominador

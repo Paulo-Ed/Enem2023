@@ -83,3 +83,48 @@
   - Manual de instruções
 
 > #### GÊNEROS TEXTUAIS
+* É o uso de tipos textuais no cotidiano.
+
+Gêneros textuais da narrativa:
+- crônica(baseado no cotidiano)
+- conto (fictício)
+- novela
+- romance
+- fábula
+- piada (humor com quebra de expectativa)
+- tirinha
+- charge
+
+Gêneros textuais da descrição:
+- Aparecem como partes de outros textos
+- descrição na narrativa
+- parte de uma reportagem
+- diários
+- folhetos
+- lista de compras
+- cardápio
+
+
+Gêneros textuais da dissertação:
+- reportagem
+- resumo
+- resenha
+- artigo de opinião
+- redação de vestibular/concurso
+- editorial
+- monografia
+
+Gêneros textuais da exposição:
+- notícias
+- artigos
+- reportagens
+- seminários
+- palestras
+- conferências
+- verbetes de dicionário
+
+Gêneros textuais da injunção:
+- receitas
+- manuais
+- regulamento
+- bula de remédio
