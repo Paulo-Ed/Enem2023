@@ -1,11 +1,16 @@
-cilindrica:
-- maiores deformações na altas latitudes
-- maior fidelidade nas baixas latitudes
+Cilindrica:
+- Maior fidelidade na linha do equador (menor deformidade)
+- Menor fidelidade nos polos (maior deformidade)
+- Nessa projeção os paralelos e meridianos formam um angulo de 90 graus
 
-cônica:
-- maiores deformações nas altas e baixas latitudes
-- maior fidelidade nas médias latitudes
+Cônica:
+- Ideal para representar hemisférios
+- Maiores deformações nas altas e baixas latitudes
+- Maior fidelidade nas médias latitudes
+- Nessa projeção os paralelos formam semi-circulos e os meridianos se encontram nos polos
 
-azimutal:
-- maiores deformações nas áreas periféricas
-- maiores fidelidades nas áres centrais
+Azimutal ou Plana:
+- Ideal para representar regiões específicas
+- Maiores deformações nas áreas periféricas
+- Maiores fidelidades nas áres centrais
+- Nessa projeção os paralelos formam círculos e os meridianos convergem para o centro
