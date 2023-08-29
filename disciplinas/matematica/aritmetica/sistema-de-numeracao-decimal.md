@@ -37,3 +37,28 @@ Ex: 84.506
 <div style="display:inline_block">
     <img align="left" height="110" width="600" alt="TypeScript" src="./../../img/sistema-decimal-2.png">
 </div>
+
+## Operações com Números Decimais
+
+> #### ADIÇÃO DE NÚMEROS DECIMAIS
+* Para a adição de números decimais, a vírgula deve estar na mesma posiçao.
+* É necessário igualar também o número de casas decimais.
+
+> #### SUBTRAÇÃO DE NÚMEROS DECIMAIS
+* Para a subtração de números decimais, a vírgula deve estar na mesma posiçao.
+* É necessário igualar também o número de casas decimais.
+
+> #### MULTIPLICAÇÃO DE NÚMEROS DECIMAIS
+* Realiza-se a multiplicação normal e após o resultado, adiciona-se a vírgula na casa correspondente a soma da quantidade de casas após a vírgula dos fatores da multiplicação.
+
+Ex: 34,6 . 12,111 = 419,0406
+12111 . 346 = 4190406 
+34,6 (1 casa decimal) + 12,111 (3 casas decimais) = 4 casas decimais
+conta-se da direita 4 casas => 419,0406
+
+> #### DIVISÃO DE NÚMEROS DECIMAIS
+* Iguala-se o número de casas decimais do dividendo e do divisor.
+* realiza-se a divisão normal eliminando a vírgula.
+
+Ex: 14,8 : 2 = 7,4
+14,8 : 2,0 => 148 : 20 = 7,4

@@ -56,6 +56,29 @@ Ex: (3 + 9) + 7 =  3 + (9 + 7)
 Ex: 10 + 0 = 10  
 Ex: 0 + 6 = 6  
 
+> #### ADIÇÃO DE NÚMEROS INTEIROS
+
+##### SINAIS IGUAIS
+* Soma-se os valores e repete-se o sinal.
+
+Ex: 10 + 7 = 17  
+Ex: - 4 + (-5) = -9
+
+##### SINAIS DIFERENTES
+* Subtrai-se os valores mantem o sinal do maior número.
+
+Ex: -2 + 7 = +5  
+Ex: 15 + (-25) = -10
+
+##### SINAIS ANTES DOS PARENTESES
+* É como se fosse multiplicado por 1 ou -1.
+* Para sinal positivo, mantém se os sinais dentro do parêntese.
+* Para sinal negativo, inverte-se os sinais dentro dos parêntese.
+
+Ex: 2 - (2 + 3) = -3
+2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
+2 - 2 - 3 = -3
+
 <br>
 
 ## Subtração
@@ -121,6 +144,29 @@ Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)
 
 Ex: 10 - 0 = 10  
 Ex: 0 - 10 = -10 (não faz parte dos números naturais) 
+
+> #### SUBTRAÇÃO DE NÚMEROS INTEIROS
+
+##### SINAIS IGUAIS
+* Soma-se os valores e repete-se o sinal.
+
+Ex: -2 -4 = -6
+Ex: -4 -5 = -9
+
+##### SINAIS DIFERENTES
+* Subtrai-se os valores mantem o sinal do maior número.
+
+Ex: 2 - (+7) = -5  
+Ex: 15 - 25 = -10
+
+##### SINAIS ANTES DOS PARENTESES
+* É como se fosse multiplicado por 1 ou -1.
+* Para sinal positivo, mantém se os sinais dentro do parêntese.
+* Para sinal negativo, inverte-se os sinais dentro dos parêntese.
+
+Ex: 2 - (2 + 3) = -3
+2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
+2 - 2 - 3 = -3
 
 <br>
 
@@ -196,6 +242,41 @@ Ex: 1 x 4 = 4
 
 Ex: 10 x 0 = 0  
 Ex: 0 x 7 = 0  
+
+> #### MULTIPLICAÇÃO DE NÚMEROS INTEIROS
+* Realiza-se a multiplicação normal, o sinal do produto depende dos sinais dos fatores multiplicados.
+
+##### JOGO DOS SINAIS
+<table>
+    <tr>
+        <td>Primeiro Número</td>
+        <td>Segundo Número</td>
+        <td>Resultado</td>
+    </tr>
+    <tr>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+     <tr>
+        <td>+</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>-</td>
+        <td>+</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>+</td>
+    </tr>
+</table>
+
+Ex: 12 . (-2) = -24 (sinais diferentes)  
+Ex: -1 . (-2) = 2 (sinais iguais)  
 
 <br>
 
@@ -278,3 +359,38 @@ Ex: 69 : 69 = 1
 
 Ex: 0 x 4 = 0  
 Ex: 3 x 0 = ?  
+
+> #### DIVISÃO DE NÚMEROS INTEIROS
+* Realiza-se a divisão normal, o sinal do produto depende dos sinais dos fatores multiplicados.
+
+##### JOGO DOS SINAIS
+<table>
+    <tr>
+        <td>Primeiro Número</td>
+        <td>Segundo Número</td>
+        <td>Resultado</td>
+    </tr>
+    <tr>
+        <td>+</td>
+        <td>+</td>
+        <td>+</td>
+    </tr>
+     <tr>
+        <td>+</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>-</td>
+        <td>+</td>
+        <td>-</td>
+    </tr>
+     <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>+</td>
+    </tr>
+</table>
+
+Ex: 12 : (-4) = -3 (sinais diferentes)  
+Ex: -10 : (-2) = 5 (sinais iguais)  
