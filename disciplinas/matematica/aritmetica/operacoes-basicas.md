@@ -299,7 +299,7 @@ Ex: -1 . (-2) = 2 (sinais iguais)
 2. Determina-se um número que multiplicado pelo divisor seja igual ou o mais próximo do dividendo.
 3. O valor encontrado é adicionado como um algarismo do quociente.
 4. Se o valor for menor que o dividendo, realiza-se a subtração e continua-se a divisão com o resto.
-5. Se o resto for menor que o divisor e ainda existirem algarismos no dividendo adiciona-se ao resto.
+5. Se o resto for menor que o divisor e ainda existirem algarismos no dividendo adiciona-se ao resto o próximo algarismo.
 6. Se o valor for igual ao dividendo e não houver mais algarismos a serem divididos, finaliza-se a operação. Se existir um ou mais algarismos 0 no dividendo adiciona-se esses zeros ao quociente e finaliza-se a divisão.
 7. Quando não houver mais algarismos a serem divididos, ou quando o valor do dividendo for menor que o divisor, finaliza-se a divisão.
 8. O valor encontrado no quociente, será o resultado.
@@ -362,6 +362,7 @@ Ex: 3 x 0 = ?
 
 > #### DIVISÃO DE NÚMEROS INTEIROS
 * Realiza-se a divisão normal, o sinal do produto depende dos sinais dos fatores multiplicados.
+* É importante lembrar que ao ir dividindo os algarismos, para todo valor que é descido para ser dividido, é obrigatório realizar a divisão, mesmo que o valor seja menor que o divisor. Nesse caso usa-se a multiplicação por zero, para poder continuar o cálculo.
 
 ##### JOGO DOS SINAIS
 <table>
