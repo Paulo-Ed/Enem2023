@@ -84,7 +84,7 @@ Ex: 15 + (-25) = -10
 * Para sinal negativo, inverte-se os sinais dentro do parêntese.
 
 Ex: 2 - (2 + 3) = -3  
-2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
+2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
 2 - 2 - 3 = -3
 
 <br>
@@ -171,14 +171,12 @@ Ex: 15 + (-25) = -10
 * Para sinal negativo, inverte-se os sinais dentro do parêntese.
 
 Ex: 2 - (2 + 3) = -3  
-2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
+2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
 2 - 2 - 3 = -3
 
 <br>
 
 ## Multiplicação
-
-> #### MULTIPLICAÇÃO DE NÚMEROS NATURAIS
 * A multiplicação é a expressão do aumento das quantidades de um determinado valor, sendo uma forma simplificada de calcular a adição.
 * O simbolo **x**, **\*** e **.** (vezes) representa a operação de multiplicação.
 * Cada termo da multiplicação é chamado de **fator**
@@ -209,80 +207,59 @@ Ex: 25 x 42 = 1050
 9. adição do resultado das duas multiplicações (respeitando a ordem das posições dos algarismos da multiplicação) => 50 + 100 = 1050 (050 + 1000)
 10. logo o resultado = 1050
 
-##### PROPRIEDADES
+> #### PROPRIEDADES
 
-> ##### Comutativa
+##### DISTRIBUTIVA
+* A multiplicação de um fator por uma adição ou subtração é igual a multiplicação de cada termo pelo fator e a posterior adição ou subtração dos resultados da multiplicação.
+* Representação:
+  - a x (b + c) = a x b + a x c
+
+Ex: 2 x (4 + 5) = 2 x 4 + 2 x 5 
+
+##### COMUTATIVA
 * A ordenação dos elementos de uma multiplicação não altera o seu resultado.
-* Representação da comutativa:
+* Representação:
   - a x b = b x a
 
 Ex: 2 x 4 = 8  
 Ex: 4 x 2 = 8  
 
-> ##### Distributiva
-* A multiplicação de um fator por uma adição ou subtração é igual a multiplicação de cada termo pelo fator e a posterior adição ou subtração dos resultados da multiplicação.
-* Representação da distributiva:
-  - a x (b + c) = a x b + a x c
-
-Ex: 2 x (4 + 5) = 2 x 4 + 2 x 5 
-
-> ##### Associativa
+##### ASSOCIATIVA
 * A associação (multiplicação parcial) entre diferentes fatores de uma multiplicação para simplificar o cálculo, não interferem no resultado.
-* Representação da associativa:
+* Representação:
   - (a x b) x c = a x (b x c)
 
 Ex: (2 x 5) x 4  =  2 x (4 x 5)   
 
-> ##### Elemento neutro
+##### ELEMENTO NEUTRO
 * O um é o elemento neutro de uma multiplicação, dessa forma todo número multiplicado por um é igual ao prório número.
-* Representação do elemento neutro:
+* Representação:
   - a x 1 = a
 
 Ex: 10 x 1 = 10  
 Ex: 1 x 4 = 4  
 
-> ##### Elemento zero
+##### ELEMENTO ZERO
 * Em uma multiplicação, todo número multiplicado por zero é igual a zero.
-* Representação do elemento zero:
+* Representação:
   - a x 0 = 0
 
 Ex: 10 x 0 = 0  
 Ex: 0 x 7 = 0  
 
-> #### MULTIPLICAÇÃO DE NÚMEROS INTEIROS
-* Realiza-se a multiplicação normal, o sinal do produto depende dos sinais dos fatores multiplicados.
+> #### REGRA DOS SINAIS NA MULTIPLICAÇÃO
 
-##### JOGO DOS SINAIS
-<table>
-    <tr>
-        <td>Primeiro Número</td>
-        <td>Segundo Número</td>
-        <td>Resultado</td>
-    </tr>
-    <tr>
-        <td>+</td>
-        <td>+</td>
-        <td>+</td>
-    </tr>
-     <tr>
-        <td>+</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-     <tr>
-        <td>-</td>
-        <td>+</td>
-        <td>-</td>
-    </tr>
-     <tr>
-        <td>-</td>
-        <td>-</td>
-        <td>+</td>
-    </tr>
-</table>
+##### SINAIS IGUAIS
+* A multiplicação de dois números com o mesmo sinal, sempre resulta em um número positivo.
 
-Ex: 12 . (-2) = -24 (sinais diferentes)  
-Ex: -1 . (-2) = 2 (sinais iguais)  
+Ex: 10 . 7 = 70  
+Ex: -4 . (-5) = 20
+
+##### SINAIS DIFERENTES
+* A multiplicação de dois números com o sinais diferentes, sempre resulta em um número negativo.
+
+Ex: -2 . 7 = -14  
+Ex: 1 . (-25) = -25
 
 <br>
 
