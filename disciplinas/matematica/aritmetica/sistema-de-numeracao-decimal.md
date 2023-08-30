@@ -68,8 +68,8 @@ Ex: 10,72 - 5,4 =  10,12 + 5,40 = 5,32
 > #### MULTIPLICAÇÃO DE NÚMEROS DECIMAIS
 * Realiza-se a multiplicação normal e após o resultado, adiciona-se a vírgula na casa correspondente a soma da quantidade de casas após a vírgula dos fatores da multiplicação.
 
-Ex: 34,6 . 12,111 = 419,0406
-12111 . 346 = 4190406   
+Ex: 34,6 . 12,111 = 419,0406  
+12111 . 346 = 4190406     
 34,6 (1 casa decimal) + 12,111 (3 casas decimais) = 4 casas decimais  
 conta-se da direita 4 casas => 419,0406
 
