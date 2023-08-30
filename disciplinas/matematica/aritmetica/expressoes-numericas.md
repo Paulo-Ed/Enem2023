@@ -4,13 +4,10 @@ Estudo das operações numéricas.
 <br>
 
 ## Expressões Numéricas
-
-> #### EXPRESSÕES NUMÉRICAS COM NÚMEROS NATURAIS
 * Expressões numéricas são sequências de operações matemáticas, que envolvem apenas números e simbolos e tem como resultado um número. Além disso não exigem a condição de igualdade.
 * Toda expressão é formada por uma associação de operações, essas devem ser resolvidas seguindo uma ordem de prioridade.
-* Nos números naturais as expressões sempre possuem um resultado maior ou igual a 0.
 
-##### ORDEM DAS OPERAÇÕES
+> #### ORDEM DAS OPERAÇÕES
 1. Operações envoltas por parêntese (), colchetes [] e chaves {}.
 2. Potenciação e radiciação na ordem que aparecem, da esquerda para a direita.
 3. Multiplicação de divisão na ordem que aparecem, da esquerda para a direita.
@@ -23,3 +20,11 @@ Ex: (25 x 2 + 10) : 20 - 1
 4. calcular operação de subtração => 3 - 1 = 2
 5. logo resultado = 2
 
+> #### SINAIS ANTES DOS PARENTESES
+* É como se fosse multiplicado por 1 ou -1.
+* Para sinal positivo, mantém-se os sinais dentro do parêntese.
+* Para sinal negativo, inverte-se os sinais dentro do parêntese.
+
+Ex: 2 - (2 + 3) = -3  
+2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
+2 - 2 - 3 = -3

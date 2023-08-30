@@ -78,15 +78,6 @@ Ex: -4 + (-5) = -9
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
 
-##### SINAIS ANTES DOS PARENTESES
-* É como se fosse multiplicado por 1 ou -1.
-* Para sinal positivo, mantém-se os sinais dentro do parêntese.
-* Para sinal negativo, inverte-se os sinais dentro do parêntese.
-
-Ex: 2 - (2 + 3) = -3  
-2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
-2 - 2 - 3 = -3
-
 <br>
 
 ## Subtração
@@ -164,15 +155,6 @@ Ex: -4 + (-5) = -9
 
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
-
-##### SINAIS ANTES DOS PARENTESES
-* É como se fosse multiplicado por 1 ou -1.
-* Para sinal positivo, mantém-se os sinais dentro do parêntese.
-* Para sinal negativo, inverte-se os sinais dentro do parêntese.
-
-Ex: 2 - (2 + 3) = -3  
-2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
-2 - 2 - 3 = -3
 
 <br>
 
