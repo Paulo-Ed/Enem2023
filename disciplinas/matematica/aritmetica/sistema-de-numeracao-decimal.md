@@ -69,13 +69,13 @@ Ex: 10,72 - 5,4 =  10,12 + 5,40 = 5,32
 * Realiza-se a multiplicação normal e após o resultado, adiciona-se a vírgula na casa correspondente a soma da quantidade de casas após a vírgula dos fatores da multiplicação.
 
 Ex: 34,6 . 12,111 = 419,0406
-12111 . 346 = 4190406 
-34,6 (1 casa decimal) + 12,111 (3 casas decimais) = 4 casas decimais
+12111 . 346 = 4190406   
+34,6 (1 casa decimal) + 12,111 (3 casas decimais) = 4 casas decimais  
 conta-se da direita 4 casas => 419,0406
 
 > #### DIVISÃO DE NÚMEROS DECIMAIS
 * Iguala-se o número de casas decimais do dividendo e do divisor.
 * realiza-se a divisão normal eliminando a vírgula.
 
-Ex: 14,8 : 2 = 7,4
+Ex: 14,8 : 2 = 7,4  
 14,8 : 2,0 => 148 : 20 = 7,4
