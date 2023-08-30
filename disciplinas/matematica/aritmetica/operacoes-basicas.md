@@ -70,7 +70,7 @@ Ex: -6 + 6 = 0
 * Soma-se os valores e repete-se o sinal.
 
 Ex: 10 + 7 = 17  
-Ex: - 4 + (-5) = -9
+Ex: -4 + (-5) = -9
 
 ##### SINAIS DIFERENTES
 * Subtrai-se os valores mantem o sinal do maior número.
@@ -83,15 +83,13 @@ Ex: 15 + (-25) = -10
 * Para sinal positivo, mantém-se os sinais dentro do parêntese.
 * Para sinal negativo, inverte-se os sinais dentro do parêntese.
 
-Ex: 2 - (2 + 3) = -3
+Ex: 2 - (2 + 3) = -3  
 2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
 2 - 2 - 3 = -3
 
 <br>
 
 ## Subtração
-
-> #### SUBTRAÇÃO DE NÚMEROS NATURAIS
 * A subtração é a retirada (descréscimo) de uma parte (um menor valor) de algo (um todo, um maior valor), sendo a operação matemática inversa a adição.
 * O simbolo **-** (menos) representa a operação de subtração.
 * Os termos da subtração são o ***minuendo*** (a quantidade original) e o ***subtraendo*** (a parte a ser retirada).
@@ -102,7 +100,7 @@ Ex: 2 - (2 + 3) = -3
 * Prova real da subtração:
   - subtraendo + diferença = minuendo
 
-##### CÁLCULO
+> #### CÁLCULO
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Subtrair os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada subtração o resultado é um algarismo.
@@ -118,7 +116,7 @@ Ex: 78 - 29 = 49
 5. realiza-se a subtração com o novo valor já descontado o valor emprestado (ordem das dezenas) => 60 - 20 = 40 
 6. logo o resultado = 49  
 
-***DICA***: Quando o minuendo for menor que o subtraendo, basta contar quanto falta para o subtraendo chegar na casa decimal (10, 20, 30, 40, ...) mais próxima, o valor deve ser somado ao minuendo e ao subtraendo, que ficará menor que o minuendo, facilitando o cálculo da subtração.
+***DICA***: Quando o algarismo das unidades do minuendo for menor que o algarismo das unidades do subtraendo, basta contar quanto falta para o subtraendo chegar na casa decimal (10, 20, 30, 40, ...) mais próxima, o valor deve ser somado ao minuendo e ao subtraendo, que ficará menor que o minuendo, facilitando o cálculo da subtração.
 
 Ex: 27 - 18 = 9 
 1. calcula a casa decimal mais próxima de 18 => 20
@@ -128,51 +126,51 @@ Ex: 27 - 18 = 9
 5. realiza-se a subtração da nova expressão => 29 - 20 = 9  
 6. logo o resultado da expressão original => 9
 
-##### PROPRIEDADES
+> #### PROPRIEDADES
 
-> ##### Não comutativa
+##### NÃO COMUTATIVA
 * A ordenação dos elementos de uma subtração se alterada mudará o seu resultado.
-* Representação da não comutativa:
+* Representação:
   - a - b ≠ b - a
 
 Ex: 60 - 45 = 15  
 Ex: 45 - 60 = -15 (não faz parte dos números naturais)  
 
-> ##### Não associativa
+##### NÃO ASSOCIATIVA
 * A associação entre diferentes partes de uma subtração para simplificar o cálculo, não pode ser feita, pois altera o resultado.
-* Representação da não associativa:
+* Representação:
   - (a - b) - c ≠ a - (b - c)
 
 Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)   
 
-> ##### Elemento neutro
-* O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso.
-* Representação do elemento neutro falso:
+##### ELEMENTO NEUTRO
+* O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso, pois o retultado é diferente.
+* Representação:
   - a - 0 ≠ 0 - a
 
-Ex: 10 - 0 = 10  
-Ex: 0 - 10 = -10 (não faz parte dos números naturais) 
+Ex: 10 - 0 = 10    
+Ex: 0 - 10 = -10  
 
-> #### SUBTRAÇÃO DE NÚMEROS INTEIROS
+> #### REGRA DOS SINAIS NA SUBTRAÇÃO
 
 ##### SINAIS IGUAIS
 * Soma-se os valores e repete-se o sinal.
 
-Ex: -2 -4 = -6
-Ex: -4 -5 = -9
+Ex: 10 + 7 = 17  
+Ex: -4 + (-5) = -9
 
 ##### SINAIS DIFERENTES
 * Subtrai-se os valores mantem o sinal do maior número.
 
-Ex: 2 - (+7) = -5  
-Ex: 15 - 25 = -10
+Ex: -2 + 7 = +5  
+Ex: 15 + (-25) = -10
 
 ##### SINAIS ANTES DOS PARENTESES
 * É como se fosse multiplicado por 1 ou -1.
-* Para sinal positivo, mantém se os sinais dentro do parêntese.
-* Para sinal negativo, inverte-se os sinais dentro dos parêntese.
+* Para sinal positivo, mantém-se os sinais dentro do parêntese.
+* Para sinal negativo, inverte-se os sinais dentro do parêntese.
 
-Ex: 2 - (2 + 3) = -3
+Ex: 2 - (2 + 3) = -3  
 2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
 2 - 2 - 3 = -3
 
