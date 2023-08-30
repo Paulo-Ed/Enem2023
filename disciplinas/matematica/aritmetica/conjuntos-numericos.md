@@ -1,4 +1,7 @@
 # ARITMÉTICA
+Estudo das operações numéricas.
+
+<br>
 
 ## Conjuntos Numéricos
 
@@ -21,7 +24,7 @@
 
 ##### PROPRIEDADES
 * O conjunto dos números inteiros tem como origem o **0** e se estende ao infinito tanto a esquerda como também a direita.
-* Os números negativos são representados com um sinal de **-** (subtração) sempre antes de cada número, já os números positivos podem ter ou não o sinal de **+** (adição) antes de cada valor.
+* Os números negativos são representados com um sinal de **-** (negativo) sempre antes de cada número, já nos números positivos o uso do sinal de **+** (positivo) antes de cada valor é opcional.
 * Cada elemento é igual ao número que o antecede com o acrécimo de 1 para números positivos e igual ao número que o antecede com o acrécimo de -1 para números negativos.
 * Todos os elementos que formam o conjunto dos números inteiros, possuem um antecessor (anterior imediato) e um sucessor (posterior imediato).
 * O **0** é um número neutro, não sendo nem positivo nem negativo.
@@ -54,7 +57,7 @@ Ex: |-10| = 10
 
 > #### NÚMEROS RACIONAIS
 * O conjunto dos números racionais, é formado por todos os números que podem ser escritos em forma de fração, tanto positivos como negativos.
-* Ele contém todos os números do conjunto do números inteiros, sob a forma de uma razão (divisão).
+* Ele contém todos os números do conjunto do números inteiros, sob a forma de uma razão (divisão), ou seja, todo número inteiro é também um número racional.
 * Representação do conjunto de números racionais:
    - Q = { ..., -2/1, ..., -1/4, -1/3, -1/2, -1/1, 0, 1/1, 1/2, 1/3, 1/4, ..., 2/1, ...}
 
@@ -71,5 +74,17 @@ Ex: 0,5 = 5/10 = 1/2
 Ex: -6 = -12/2
 
 > #### NÚMEROS IRRACIONAIS
+* O conjunto dos números irracionais, é formado por números decimais não exatos que possuem representação infinita e não periódica, não podendo ser representados por meio de frações irredutíveis.
+* Representação do conjunto de números irracionais:
+   - I = {e, π, √2, ...}
+
+##### PROPRIEDADES
+* Os números irracionais poderm ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
+
+Ex: 1,41413...
+Ex: 3,141592...
 
 > #### NÚMEROS REAIS
+* O conjunto dos números reais é formado pelo conjunto dos números racionais e irracionais.
+* Representação do conjunto de números reais:
+   - R = {N, Z, Q, I}
