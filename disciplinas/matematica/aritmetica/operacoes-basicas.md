@@ -4,9 +4,7 @@ Estudo das operações numéricas.
 <br>
 
 ## Adição
-
-> #### ADIÇÃO DE NÚMEROS NATURAIS
-* A adição é a junção (acréscimo) de dois ou mais elementos (números naturais) através de uma operação matemática.
+* A adição é a junção (acréscimo) de dois ou mais elementos (números) através de uma operação matemática.
 * O simbolo **+** representa a operação de adição.
 * Cada termo da adição é chamado de ***parcela***.
 * O resultado da adição é denominado ***total*** ou ***soma***.
@@ -15,7 +13,7 @@ Estudo das operações numéricas.
 * Prova real da adição:
   - soma - parcela2 = parcela1
 
-##### CÁLCULO
+> #### CÁLCULO
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Somar os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada junção o resultado é um algarismo, sendo reagrupado para a próxima ordem o valor que exceder (maior que 9) o teto da respectiva casa decimal (unidade, dezena, centena, ...).
@@ -31,32 +29,42 @@ Ex: 35 + 66 = 101
 7. (opção B) como não há mais algarismos pode-se adicionar diretamente os dois da última adição => 101
 8. logo o resultado => 101
 
-##### PROPRIEDADES
+> #### PROPRIEDADES DA ADIÇÃO
 
-> ##### Comutativa
+##### COMUTATIVA
 * A ordenação dos elementos de uma adição não altera o seu resultado.
-* Representação da comutativa:
+* Representação:
   - a + b = b + a
 
 Ex: 10 + 15 = 25  
 Ex: 15 + 10 = 25  
 
-> ##### Associativa
+##### ASSOCIATIVA
 * A associação (junção parcial) entre diferentes parcelas de uma adição para simplificar o cálculo, não interferem no resultado.
-* Representação da associativa:
+* Representação:
   - (a + b) + c = a + (b + c)
 
 Ex: (3 + 9) + 7 =  3 + (9 + 7)   
 
-> ##### Elemento neutro
+##### ELEMENTO NEUTRO
 * O zero é o elemento neutro de uma adição, pois não modifica o seu resultado. Sendo assim todo número somado a zero é o próprio número.
-* Representação do elemento neutro:
+* Representação:
   - a + 0 = a
 
 Ex: 10 + 0 = 10  
 Ex: 0 + 6 = 6  
 
-> #### ADIÇÃO DE NÚMEROS INTEIROS
+##### ELEMENTO OPOSTO
+* O número oposto ou simétrico é o número com sinal trocado.
+* A soma de números opostos sempre é igual a zero.
+* Representação:
+  - a | -a
+  - a + (-a) = 0
+
+Ex: 10 + (-10) = 0    
+Ex: -6 + 6 = 0    
+
+> #### REGRA DOS SINAIS NA ADIÇÃO
 
 ##### SINAIS IGUAIS
 * Soma-se os valores e repete-se o sinal.
@@ -72,8 +80,8 @@ Ex: 15 + (-25) = -10
 
 ##### SINAIS ANTES DOS PARENTESES
 * É como se fosse multiplicado por 1 ou -1.
-* Para sinal positivo, mantém se os sinais dentro do parêntese.
-* Para sinal negativo, inverte-se os sinais dentro dos parêntese.
+* Para sinal positivo, mantém-se os sinais dentro do parêntese.
+* Para sinal negativo, inverte-se os sinais dentro do parêntese.
 
 Ex: 2 - (2 + 3) = -3
 2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3
