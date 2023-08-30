@@ -260,14 +260,14 @@ Ex: 3 x 1/3 = 3/3 = 1
 ##### SINAIS IGUAIS
 * A multiplicação de dois números com o mesmo sinal, sempre resulta em um número positivo.
 
-Ex: 10 . 7 = 70  
-Ex: -4 . (-5) = 20
+Ex: 10 x 7 = 70  
+Ex: -4 x (-5) = 20
 
 ##### SINAIS DIFERENTES
 * A multiplicação de dois números com o sinais diferentes, sempre resulta em um número negativo.
 
-Ex: -2 . 7 = -14  
-Ex: 1 . (-25) = -25
+Ex: -2 x 7 = -14  
+Ex: 1 x (-25) = -25
 
 <br>
 
@@ -311,7 +311,7 @@ Ex: 232 : 8 = 29
 ##### NÃO COMUTATIVA
 * A ordenação dos elementos de uma divisão altera o seu resultado.
 * Representação:
-  - a / b ≠ b / a
+  - a : b ≠ b : a
 
 Ex: 10 : 5 = 2   
 Ex: 5 : 10 = 0.5
@@ -335,10 +335,10 @@ Ex: 4 x 3 : 2 x 3 = 2
 ##### ELEMENTO NEUTRO
 * Em um divisão o quociente de uma divisão por 1 é sempre o valor do dividendo. E quando o dividendo e o divisor forem iguais o quociente sempre será 1.
 * Representação:
-  - a / 1 = a
-  - a / a = 1
+  - a : 1 = a
+  - a : a = 1
 
-Ex: 35 / 1 = 35  
+Ex: 35 : 1 = 35  
 Ex: 69 : 69 = 1  
 
 ##### ELEMENTO ZERO
