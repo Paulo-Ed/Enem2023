@@ -4,8 +4,6 @@ Estudo das operações numéricas.
 <br>
 
 ## Frações
-
-> #### DEFINIÇÃO DE FRAÇÃO
 * Fração é a representação, de partes de um valor inteiro que foi dividido em porções iguais.
 * As frações representam também uma divisão, ou seja, a separação de um determinado valor a partir de um determinado número fragmentado em partes iguais.
 * O termos que formam a fração são o ***numerador*** que é o número de partes do todo que foram tomadas e o ***denominador*** que representa o número total de partes iguais que o valor inteiro foi dividido.
