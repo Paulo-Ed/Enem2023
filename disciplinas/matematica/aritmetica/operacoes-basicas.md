@@ -308,7 +308,7 @@ Ex: 232 : 8 = 29
 
 > #### PROPRIEDADES
 
-> ##### NÃO COMUTATIVA
+##### NÃO COMUTATIVA
 * A ordenação dos elementos de uma divisão altera o seu resultado.
 * Representação:
   - a / b ≠ b / a
