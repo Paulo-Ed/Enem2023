@@ -1,10 +1,15 @@
+# ARITMÉTICA
+Estudo das operações numéricas.
+
+<br>
+
 ## Sistema de Numeração Decimal
 * Também chamado de sistema hindu-arábico, sendo um sistema de base 10.
 * O sistema decimal é um sistema posicional, ou seja, um mesmo algarismo muda de valor depedendo de sua posição.
-* O algarismo 0, representa a ausência de um valor (nada).
-* As quantidades são agrupadas de 10 em 10.
+* O algarismo zero, representa a ausência de um valor (nada).
+* As quantidades são agrupadas de dez em dez.
 * Representação do sistema decimal:
- - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+  - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 Ex: 1111 => 1 unidade, => 1 dezena, => 1 centena, => 1 milhar
 
@@ -16,9 +21,9 @@ Ex: 1111 => 1 unidade, => 1 dezena, => 1 centena, => 1 milhar
   - milhões
   - etc
 * Ordens:
- - unidade
- - dezena
- - centena
+  - unidade
+  - dezena
+  - centena
 
 Ex: 84.506
 
@@ -31,6 +36,7 @@ Ex: 84.506
 <br>
 <br>
 <br>
+<br>
 
 > #### REPRESENTAÇÃO DECIMAL
 
@@ -38,15 +44,26 @@ Ex: 84.506
     <img align="left" height="110" width="600" alt="TypeScript" src="./../../img/sistema-decimal-2.png">
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Operações com Números Decimais
 
 > #### ADIÇÃO DE NÚMEROS DECIMAIS
-* Para a adição de números decimais, a vírgula deve estar na mesma posiçao.
-* É necessário igualar também o número de casas decimais.
+* A adição de números decimais, igualando-se as parcelas em ordens iguais, tendo como parâmetro a posição da vírgula.
+* Para diferentes quantidades de casas decimais, é necessário iguala-las, adicionando o valor zero.
+
+Ex: 200,12 + 25,40 =  200,12 + 25,40 = 225,52
 
 > #### SUBTRAÇÃO DE NÚMEROS DECIMAIS
-* Para a subtração de números decimais, a vírgula deve estar na mesma posiçao.
-* É necessário igualar também o número de casas decimais.
+* A subtração de números decimais, igualando-se as parcelas em ordens iguais, tendo como parâmetro a posição da vírgula.
+* Para diferentes quantidades de casas decimais, é necessário iguala-las, adicionando o valor zero.
+
+Ex: 10,72 - 5,4 =  10,12 + 5,40 = 5,32
 
 > #### MULTIPLICAÇÃO DE NÚMEROS DECIMAIS
 * Realiza-se a multiplicação normal e após o resultado, adiciona-se a vírgula na casa correspondente a soma da quantidade de casas após a vírgula dos fatores da multiplicação.

@@ -4,7 +4,7 @@ Estudo das operações numéricas.
 <br>
 
 ## Frações
-* Fração é a representação, de partes de um valor inteiro que foi dividido em porções iguais.
+* Fração é a representação da retirada de partes de um valor inteiro que foi dividido em porções iguais.
 * As frações representam também uma divisão, ou seja, a separação de um determinado valor a partir de um determinado número fragmentado em partes iguais.
 * O termos que formam a fração são o ***numerador*** que é o número de partes do todo que foram tomadas e o ***denominador*** que representa o número total de partes iguais que o valor inteiro foi dividido.
 * O denominador em uma fração sempre é diferente de zero.
@@ -108,8 +108,12 @@ Ex: 3/9 = 0,333...
 * Basta multiplicar os numeradores entre si e os denominadores entre si.
 * Representação da multiplicação de frações:
   - a/b . c/d = a . c/ b . d
+
+Ex: 1/2 . 3/4 = 1 . 2/3 . 4 = 2/12 - 1/6  
  
 > #### DIVISÃO DE FRAÇÕES
 * Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.
 * Representação da subtração de frações:
   - a/b : c/d = a/b . d/c 
+
+Ex: 10/8 : 2/4 = 10/8 . 4/2 = 10 . 4/8 . 2 = 40/16 = (:8) = 5/2  
