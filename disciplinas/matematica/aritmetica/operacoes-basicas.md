@@ -247,6 +247,14 @@ Ex: 1 x 4 = 4
 Ex: 10 x 0 = 0  
 Ex: 0 x 7 = 0  
 
+##### ELEMENTO INVERSO
+* O inverso de um número é o número que por ele multiplicado resulta em um.
+* Representação:
+  - a x 1/a = a/a = 1
+
+Ex: 10 x 1/10 = 10/10 = 1    
+Ex: 3 x 1/3 = 3/3 = 1    
+
 > #### REGRA DOS SINAIS NA MULTIPLICAÇÃO
 
 ##### SINAIS IGUAIS
