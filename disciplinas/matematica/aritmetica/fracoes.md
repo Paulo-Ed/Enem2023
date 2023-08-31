@@ -11,6 +11,7 @@ Estudo das operações numéricas.
 * Uma fração em que o numerador e o denominador são iguais, é chamado de um inteiro.
 * Uma fração pode ser simplificada, continuando a representar a mesma quantidade.
 * A simplificação é o processo de se dividir o numerador e denominador de uma fração por um mesmo divisor comum, até que não seja possível mais reduzir o seu tamanho.
+* A redução de frações a um mesmo denominador, é a reescrita de duas ou mais frações em frações equivalentes que possuam um mesmo denominador.
 * Representação da fração:
   - a/b 
   - a = numerador
@@ -46,7 +47,8 @@ Ex: 2 2/3 = 8/3
          
 ##### FRAÇÃO EQUIVALENTE
 * São frações formadas por diferentes valores, mas que representam a mesma parte de um inteiro.
-* Pode-se identificar frações equivalentes, realizando a sua simplificação.
+* Pode-se identificar frações equivalentes, realizando a sua simplificação, ou multiplicando seu numerador e denominador por um mesmo número.
+* Pode-se realizar a comparação de frações por meio da sua redução a um mesmo denominador.
 
 Ex: 1/2 = 2/4
 
