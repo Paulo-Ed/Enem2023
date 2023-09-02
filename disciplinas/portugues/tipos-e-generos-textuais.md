@@ -1,6 +1,6 @@
 # Português
 
-## TEXTO, TIPOS E GÊNEROS 
+## Texto, Tipos e Gêneros 
 * Texto se define como qualquer sentença ou expressão que constitua comunicação.
 
 > #### TIPOS TEXTUAIS
@@ -53,7 +53,7 @@
 * Tipos de Dissertação:
   - Dissertativo-expositivo (Apresenta a ideia, ou tema)
   - Dissertativo-argumentativo (Apresenta o tema, e argumentos que defendam uma percepção sobre ele)
-* Exemplos de Descrição:
+* Exemplos de Dissertação:
   - Resenha
   - Artigo
   - Ensaio
@@ -85,7 +85,7 @@
 > #### GÊNEROS TEXTUAIS
 * É o uso de tipos textuais no cotidiano.
 
-Gêneros textuais da narrativa:
+##### NARRATIVA
 - crônica(baseado no cotidiano)
 - conto (fictício)
 - novela
@@ -95,7 +95,7 @@ Gêneros textuais da narrativa:
 - tirinha
 - charge
 
-Gêneros textuais da descrição:
+##### DESCRIÇÃO
 - Aparecem como partes de outros textos
 - descrição na narrativa
 - parte de uma reportagem
@@ -104,8 +104,7 @@ Gêneros textuais da descrição:
 - lista de compras
 - cardápio
 
-
-Gêneros textuais da dissertação:
+##### DISSERTAÇÃO
 - reportagem
 - resumo
 - resenha
@@ -114,7 +113,7 @@ Gêneros textuais da dissertação:
 - editorial
 - monografia
 
-Gêneros textuais da exposição:
+##### EXPOSIÇÃO
 - notícias
 - artigos
 - reportagens
@@ -123,7 +122,7 @@ Gêneros textuais da exposição:
 - conferências
 - verbetes de dicionário
 
-Gêneros textuais da injunção:
+##### INJUNÇÃO
 - receitas
 - manuais
 - regulamento
