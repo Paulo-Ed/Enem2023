@@ -73,12 +73,42 @@ Ex: √<sup>3</sup>√64 = <sup>2 . 3</sup>√64 = <sup>6</sup>√64 = 2
 Ex: <sup>5</sup>√242 = <sup>5</sup>√3<sup>5</sup> = 3
 
 > #### RACIONALIZAÇÃO DE DENOMINADORES
+* A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional.
+
+##### DENOMINADOR COM RAÍZ QUADRADA
+* Multiplica-se o numerador e o denominador da fração, pelo valor do denominador da fração.
+
+Ex: 3/√5 = 3/√5 . √5/√5 = 3√5/√5.5 = 3√5/√5<sup>2</sup> = 3√5/5
+
+##### DENOMINADOR COM RAÍZ DE EXPOENTE MAIOR QUE DOIS
+* Deve-se encontrar um valor em que a multiplicação das potências, resulte em um expoente igual ao do radical do denominador, possibilitando a sua eliminação.
+
+Ex: 2/<sup>5</sup>√9 = 2/<sup>5</sup>√3<sup>2</sup> . <sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup>.3<sup>2</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>5</sup> = 2<sup>5</sup>√27/3
+
+##### DENOMINADOR COM ADIÇÃO OU SUBTRAÇÃO DE RADICAIS
+* Quando o denominador for uma adição ou subtração de radicais, multiplica-se o numerador e o denominador pela expressão com valor inverso ao do denominador, que se traduz em um produto notável em que o resultado é o quadrado do radicando de cada valor que forma o denominador.
+
+Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(√6 - √3).(√6 + √3) = 3(√6 + √3)/(√6)<sup>2</sup> - (√3)<sup>2</sup> = 3(√6 + √3)/6 - 3 = 3(√6 + √3)/3 = √6 + √3
 
 > #### OPERAÇÕES COM RADICAIS
 
 ##### ADIÇÃO
+* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e somar os seus coeficientes.
+* Para radicais não semelhantes, antes da soma é preciso simplificar o radical. 
+* Quando não é possível a simplificação, calcula-se o valor dos radicais e soma-se o resultado.
+
+Ex: 10<sup>6</sup>√3 + 5<sup>6</sup>√3 = 15<sup>6</sup>√3  
+Ex: 8√6 + 9√24 = 8√6 + 9√2<sup>2</sup>.2.3 = 8√6 + (9.2)√2.3 = 8√6 + 18√6 = 26√6  
+Ex: √81 + √25 = 9 + 5 = 14  
 
 ##### SUBTRAÇÃO
+* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e subtrair os seus coeficientes.
+* Para radicais não semelhantes, antes da subtração é preciso simplificar o radical.
+Quando não é possível a simplificação, calcula-se o valor dos radicais e subtraí-se o resultado.
+
+Ex: 9<sup>5</sup>√2 - 5<sup>5</sup>√2 = 4<sup>5</sup>√2  
+Ex: 5<sup>3</sup>√81 - 4<sup>3</sup>√3 = 5<sup>3</sup>√3<sup>3</sup>.3 - 4<sup>3</sup>√3 = (5.3)<sup>3</sup>√3 - 4<sup>3</sup>√3 = 15<sup>3</sup>√3 - 4<sup>3</sup>√3 = 11<sup>3</sup>√3  
+Ex: √5 + √2 = 2.24 - 1,41 = 0.82  
 
 ##### MULTIPLICAÇÃO
 * Na multiplicação de radicais de mesmo índice, repete-se o índice do radical e multiplica-se os radicandos.
