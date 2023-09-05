@@ -159,3 +159,43 @@ Considerando os dados da pesquisa, quantos estudantes consomem apenas uma dessas
 
 5. Agora que conhecemos o número de cada parte do diagrama, podemos calcular o número de estudantes que consome apenas uma dessas marcas, somando os valores de cada conjunto. 
 6. Nº de pessoas que consome apenas uma das marcas = 11 + 8 + 4 = 23
+
+> #### INTERVALOS REAIS 
+* É a representação de um subconjunto dos números reais, a partir de critérios estabelecidos.
+* Intervalo aberto o extremo não faz parte.
+* Intervalo fechado o extremo faz parte.
+* Representação:
+  - ]a,b[ = {x ∈ R | a < X < b}
+  - [a,b] = {x ∈ R | a ≤ X ≤ b}
+  - [a,b[ = {x ∈ R | a ≤ X < b}
+  - ]a,b] = {x ∈ R | a < X ≤ b}
+
+Ex: S = {x ∈ R | 10 < X < 25}  
+1. ]10, 25[
+
+Ex: S = {x ∈ R | -4 ≤ X < 16}  
+1. [-4, 16[
+
+* Representação na Reta Numérica:
+<div style="display:inline_block">
+   <p>Intervalo Aberto de Extremos:</p>
+    <img height="50" width="200" alt="TypeScript" src="https://static.todamateria.com.br/upload/in/te/intervalo_aberto.jpg">
+</di>
+<br>
+<br>
+<div style="display:inline_block">
+   <p>Intervalo Fechado de Extremos:</p>
+   <img height="50" width="200" alt="TypeScript" src="https://static.todamateria.com.br/upload/in/te/intervalo_fechado.jpg?auto_optimize=low">
+</di>
+<br>
+<br>
+<div style="display:inline_block">
+   <p>Intervalo Aberto à Direita:</p>
+   <img height="50" width="200" alt="TypeScript" src="https://static.todamateria.com.br/upload/in/te/intervalo_diretira.jpg?auto_optimize=low">
+</di>
+<br>
+<br>
+<div style="display:inline_block">
+   <p>Intervalo Aberto à Esquerda:</p>
+   <img height="50" width="200" alt="TypeScript" src="https://static.todamateria.com.br/upload/en/te/entervalo_esquerda.jpg?auto_optimize=low">
+</di>
