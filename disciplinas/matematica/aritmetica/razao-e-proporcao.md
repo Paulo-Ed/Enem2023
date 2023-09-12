@@ -45,6 +45,8 @@ Ex: 10/5 = 8/4
 3. 2 = 2
 
 > #### GRANDEZAS
+* Grandeza, é tudo o que pode ser medido, contado ou comparado. 
+* Duas ou mais grandezas podem ser relacionadas, essas relações podem ser diretas ou inversas.
 
 ##### GRANDEZAS DIRETAMENTE PROPORCIONAIS
 * São grandezas em que, quando se aumenta uma grandeza, a outra também aumenta de forma proporcional.
