@@ -18,10 +18,16 @@ Estudo das operações numéricas.
   - C (Capital)
   - i (Taxa de juros)
   - t (Tempo)
-  * Fórmula do Juros:
+* Fórmula do Juros:
   - J = M - C 
   - J (Juros)
   - M (Montante)
   - C (Capital)
   
-
+> #### ANTECIPAÇÃO DE PARCELAS
+* Consiste em realizar o pagamento de um valor, tendo como benefício o desconto no juros pago.
+* Fórmula:
+  - P/(1 + i/100)<sup>t</sup>
+  - P (Parcela)
+  - i (Taxa de juros)
+  - t (Tempo)
