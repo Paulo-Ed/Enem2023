@@ -3,6 +3,7 @@
 <br>
 
 ## Probabilidade
+* É o cálculo da chance de um evento acontecer em um determinado espaço amostral.
 
 > #### PROBABILIDADE DE UM EVENTO
 
