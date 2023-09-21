@@ -5,6 +5,12 @@
 ## Probabilidade
 * É o cálculo da chance de um evento acontecer em um determinado espaço amostral.
 
+> #### ESPAÇO AMOSTRAL
+* É um conjunto de eventos possíveis a partir de um experimento aleatório.
+
+> #### EVENTO
+* É qualquer subconjunto do espaço amostral de um experimento aleatório, ou seja, é a ocorrência de um resultado em um conjunto de resultados possíveis.
+
 > #### PROBABILIDADE DE UM EVENTO
 * É calculado a partir da divisão dos casos favoráveis (evento que se quer), pelo número de casos possíveis (todos os eventos que podem ocorrer).
 * Representação:
