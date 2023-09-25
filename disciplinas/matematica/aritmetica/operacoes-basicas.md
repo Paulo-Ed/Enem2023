@@ -135,7 +135,7 @@ Ex: 45 - 60 = -15 (não faz parte dos números naturais)
 Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)   
 
 ##### ELEMENTO NEUTRO
-* O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso, pois o retultado é diferente.
+* O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso, pois o resultado é diferente.
 * Representação:
   - a - 0 ≠ 0 - a
 
