@@ -44,3 +44,12 @@ Ex: 2x + 5 = x + 2  em que x ∈ U = N
 x = -3
 S = {} ou ∅
 
+## Sistema de Equações do 1º grau
+
+> #### PROPRIEDADES DE RESOLUÇÃO DE SISTEMAS DE EQUAÇÕES DO 1º GRAU
+
+##### MÉTODO DA SUBSTITUIÇÃO
+
+##### MÉTODO DA ADIÇÃO
+
+##### MÉTODO DA COMPARAÇÃO
