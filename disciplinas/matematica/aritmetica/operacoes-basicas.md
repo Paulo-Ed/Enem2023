@@ -272,7 +272,7 @@ Ex: 1 x (-25) = -25
 4. Se o valor for menor que o dividendo, realiza-se a subtração e continua-se a divisão com o resto.
 5. Se o resto for menor que o divisor e ainda existirem algarismos no dividendo adiciona-se ao resto o próximo algarismo.
 6. É importante lembrar que ao ir dividindo os algarismos, para todo valor que é adicionado ao resto para ser dividido, é obrigatório realizar a divisão, mesmo que o valor seja menor que o divisor. Nesse caso usa-se a multiplicação por zero, para poder continuar o cálculo.
-7. Se não houver mais algarismos a serem divididos e valor do dividendo for menor que o divisor, adiciona-se uma vírgula ao quociente e um zero no dividendo.
+7. Se não houver mais algarismos a serem divididos e o valor do dividendo for menor que o divisor, adiciona-se uma vírgula ao quociente e um zero no dividendo.
 8. Se o valor for igual ao dividendo e não houver mais algarismos a serem divididos, finaliza-se a operação. Se existir um ou mais algarismos 0 no dividendo adiciona-se esses zeros ao quociente e finaliza-se a divisão.
 9.  O valor encontrado no quociente, será o resultado.
 

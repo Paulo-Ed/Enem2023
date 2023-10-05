@@ -125,3 +125,32 @@ Resumo:
 18. "Um país não muda pela sua economia, sua política e nem mesmo sua ciência; muda sim pela sua cultura." (Herbert José de Sousa - Sociólogo)
 
 > #### ARGUMENTOS
+* Tipos de argumentos:
+  - Exemplificação
+  - Enumeração
+  - Comparação
+  - Causas e efeitos
+  - Evolução histórica
+  - Contraposição
+
+Exemplos:
+1. A baixa escolarização do brasileiro.
+2. O Brasil é um país extremamente desigual.
+3. A herança da escravidão no Brasil.
+4. O capitalismo força ao consumismo.
+5. O neoliberalismo como destruidor das políticas públicas.
+6. Sociedade individualista.
+7. Redes sociais como influência negativa.
+8. Aspectos da colonização.
+9. Negligência governamental.
+10. Impunidade.
+11. Lacuna científica.
+12. Falta de investimento público.
+13. Priorização de interesses financeiros.
+14. Insuficiência legislativa.
+15. Receio de denúnciar.
+16. Preconceito.
+17. Falta de estrutura.
+18. Falta de representatividade.
+19. Mentalidade social.
+20. Pratiarcado.
