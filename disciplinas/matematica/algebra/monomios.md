@@ -39,15 +39,13 @@ Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b
 Ex: 3a<sup>2</sup> : 5a = 3/5a 
 
 ##### POTENCIAÇÃO
-* Divide-se os coeficientes e subtrai-se os expoentes da letras iguais. Para letras diferentes apenas repete-se e para divisões não exatas, os coeficientes são representados em forma de fração.
+* A potenciação de um monômio, eleva-se cada elemento ao expoente, de acordo com as regras da potenciação. Para potência fora de parenteses, calcula-se a potencia do expoente da base mais próxima.
 
-Ex: 10a<sup>2</sup> : 5a = 2a  
-Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b  
-Ex: 3a<sup>2</sup> : 5a = 3/5a 
+Ex: (10a<sup>2</sup>)<sup>2</sup> = 10<sup>2</sup>. (a<sup>2</sup>)<sup>2</sup> = 100a<sup>4</sup>  
+Ex: 10a<sup>2</sup> <sup>3</sup> = 10. (a<sup>2</sup>)<sup>3</sup> = 10a<sup>8</sup>  
 
 ##### RADICIAÇÃO
-* Divide-se os coeficientes e subtrai-se os expoentes da letras iguais. Para letras diferentes apenas repete-se e para divisões não exatas, os coeficientes são representados em forma de fração.
+* Extrai-se a raiz de cada elemento, sendo que na parte literal é obrigatório que o expoente seja divisível pelo índice da raíz. Se não for divisível, simplifica-se o máximo possível.
 
-Ex: 10a<sup>2</sup> : 5a = 2a  
-Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b  
-Ex: 3a<sup>2</sup> : 5a = 3/5a 
+Ex: √81a<sup>8</sup>b<sup>4</sup> = 9a<sup>4</sup>b<sup>2</sup>  
+Ex: √81a<sup>5</sup>b<sup>4</sup> = 9b<sup>2</sup>√a<sup>5</sup> = √a<sup>4</sup> . a<sup>1</sup> = 9a<sup>2</sup>b<sup>2</sup>√a
