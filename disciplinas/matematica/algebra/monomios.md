@@ -37,3 +37,17 @@ Ex: 2b<sup>2</sup> . 5a = 10b<sup>2</sup>a
 Ex: 10a<sup>2</sup> : 5a = 2a  
 Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b  
 Ex: 3a<sup>2</sup> : 5a = 3/5a 
+
+##### POTENCIAÇÃO
+* Divide-se os coeficientes e subtrai-se os expoentes da letras iguais. Para letras diferentes apenas repete-se e para divisões não exatas, os coeficientes são representados em forma de fração.
+
+Ex: 10a<sup>2</sup> : 5a = 2a  
+Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b  
+Ex: 3a<sup>2</sup> : 5a = 3/5a 
+
+##### RADICIAÇÃO
+* Divide-se os coeficientes e subtrai-se os expoentes da letras iguais. Para letras diferentes apenas repete-se e para divisões não exatas, os coeficientes são representados em forma de fração.
+
+Ex: 10a<sup>2</sup> : 5a = 2a  
+Ex: 10a<sup>2</sup> : 5b = 2a<sup>2</sup>b  
+Ex: 3a<sup>2</sup> : 5a = 3/5a 
