@@ -12,7 +12,7 @@
 * São elementos que formam a narrativa:
   - Enredo (É a história em si, o desenvolvimento da trama)
   - Narrador ou foco narrativo (É a voz do texto, quem está contando a história, podendo ser um narrador observador, ou narrador personagem)
-  - Personagens (São aqueles que fazem parte da história, podendo ser personagens principais ou sucundários)
+  - Personagens (São aqueles que fazem parte da história, podendo ser personagens principais ou secundários)
   - Tempo (É o momento em que a trama se desenrola, podendo ser tempo cronológico ou psicológico)
   - Espaço (É o local ou locais onde se desenvolve a história, podendo ser local físico, psicológico ou social)
 * Estrutura da narrativa:
@@ -63,7 +63,7 @@
 ##### EXPOSIÇÃO
 * Apresenta uma sintetização ou análise sobre alguma ideia, conceito, teoria ou fenômeno. O objetivo desse tipo textual é informar e instruir sobre determinado assunto.
 * Tipos de textos expositivos:
-  - Expositivo-informativo (Transmissão de iformações importantes sobre um tema)
+  - Expositivo-informativo (Transmissão de informações importantes sobre um tema)
   - Expositivo-argumentativo (Apresentação de informações sobre um tema com posicionamento do autor)
 * Exemplos de Textos Expositivos:
   - Seminários
@@ -86,7 +86,7 @@
 * É o uso de tipos textuais no cotidiano.
 
 ##### NARRATIVA
-- crônica(baseado no cotidiano)
+- crônica (baseado no cotidiano)
 - conto (fictício)
 - novela
 - romance
