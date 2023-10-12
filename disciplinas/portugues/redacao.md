@@ -94,12 +94,106 @@ Resumo:
 ## Coesão e Coerência Textual
 
 > #### CONECTIVOS
+* São palavras ou expressões que ligam frases, orações e parágrafos, permitindo a conexão de ideias e uma sequência coerente to texto.
 
 ##### INTRODUÇÃO
 
+1. Para começar.
+2. Primeiramente.
+3. Inicialmente.
+4. É fato que.
+5. Muito se discute sobre.
+6. No contexto atual.
+7. Primordialmente.
+8. Em primeiro lugar.
+9. Conforme os últimos dados.
+10. Antes de mais nada.
+11. Antes de tudo.
+12. Acima de tudo.
+13. A princípio.
+14. Na contemporaneidade.
+15. No panorama atual.
+16. Ultimamente.
+17. Entretanto.
+18. E.
+19. Também.
+20. Além disso.
+21. Bem como.
+22. Mas.
+23. Porém.
+24. Contudo.
+25. No entanto.
+26. Por outro lado.
+27. Segundo.
+28. De acordo com.
+29. Apesar de.
+30. Embora.
+31. Pois.
+32. Visto que.
+33. Porque.
+34. Exceto.
+35. Com o fim de.
+
 ##### DESENVOLVIMENTO
 
+1. Em primeiro lugar.
+2. Por exemplo.
+3. Da mesma forma.
+4. Por outro lado.
+5. Apesar de.
+6. Primeiramente.
+7. Em segundo lugar.
+8. Dessa forma.
+9. Assim como.
+10. Da mesma maneira.
+11. Exemplificando.
+12. Isto é.
+13. Em outras palavras.
+14. Frequentemente.
+15. à medida que.
+16. Quanto mais.
+17. Quanto menos.
+18. Se.
+19. Contanto que.
+20. A não ser que.
+21. ou...ou.
+22. Visto que.
+23. Pois.
+24. Porque.
+25. Uma vez que.
+26. Graças a.
+27. Devido a.
+28. Além disso.
+29. Em paralelo.
+30. Adicionalente.
+31. Bem como.
+32. Do mesmo modo.
+33. Outrossim.
+34. Por outro lado.
+
 ##### CONCLUSÃO
+
+1. Conclui-se.
+2. Desse modo.
+3. Dessa forma.
+4. Destarte.
+5. Diante disso.
+6. Diante do exposto.
+7. Em síntese.
+8. Em suma.
+9. Logo.
+10. Nesse sentido.
+11. Portanto.
+12. Por tudo isso.
+13. Para que.
+14. A fim de que.
+15. Com o fim de.
+16. Com o intuito de.
+17. Certamente.
+18. Indubitavelmente.
+19. Sem dúvida.
+20. Com certeza.
+21. Evidentemente.
 
 ## Recursos 
 
@@ -123,6 +217,22 @@ Resumo:
 16. "Não corrigir nossas falhas é o mesmo que cometer novos erros." (Confúcio - Filósofo chinês)
 17. "Temos de nos tornar a mudança que queremos ver." (Mahatma Gandhi - Ativista indiano.)
 18. "Um país não muda pela sua economia, sua política e nem mesmo sua ciência; muda sim pela sua cultura." (Herbert José de Sousa - Sociólogo)
+19. "Penso, logo existo." (Descartes - Filósofo)
+20. "O homem é o lobo do homem." (Hobbes - Filósofo)
+21. "Onde não há lei, não há liberdade." (Hobbes - Filósofo)
+22. "Não é da benevolência do padeiro, do açougueiro ou do cervejeiro que eu espero que saia o meu jantar, mas sim do empenho deles em promover seu auto-interesse." (Adam Smith - Economista)
+23. "O homem não é nada além daquilo que a educação faz dele." (Kant - Filósofo)
+24. "O que não provoca minha morte faz com que eu fique mais forte."(Nietzsche - Filósofo)
+25. "A história da sociedade até aos nossos dias é a história da luta de classes." (Marx - Filósofo)
+26. "Os limites de minha linguagem significam os limites de meu mundo." (Wittgenstein - Filósofo)
+27. "Não se nasce mulher: torna-se." (Beauvoir - Filósofa)
+28. "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós."(Sartre - Filósofo)
+29. "A única coisa que podemos ter certeza, é a incerteza." (Bauman - Filósofo)
+30. "Preconceito é opinião sem conhecimento." (Voltaire - Filósofo)
+31. "A inclusão acontece quando se aprende com as diferenças e não com as igualdades." (Paulo Freire - Educador)
+32. "Ler um bom livro é como conversar com as melhores mentes do passado." (Descartes - Filósofo)
+33. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
+34. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
 
 > #### ARGUMENTOS
 * Tipos de argumentos:
