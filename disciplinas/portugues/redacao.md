@@ -4,9 +4,9 @@
 * A redação do Enem sempre trata de um problema.
 * Elementos de um Problema:
   - Todo problema tem vítimas.
-  - Todo problema tem consequências.
-  - Todo problema tem causas.
   - Todo problema tem responsáveis.
+  - Todo problema tem causas.
+  - Todo problema tem consequências.
 
 > #### INTRODUÇÃO
 
