@@ -82,8 +82,8 @@
 * Essa segunda proposta pode ser composta por todos os elementos, ou mais simples.
 
 ##### 12º FECHAMENTO
-* Iniciar com um conectivo que ligue ao período anterior e que coloca que o perído a seguir se trata como um resultado das ações da proposta de intervenção.
-* Esse resultado é uma possível solução para o problema e uma retomada da citação apresentado na introdução.
+* Iniciar com um conectivo que ligue ao período anterior e que coloca que o perído a seguir, trata de um resultado das ações da proposta de intervenção.
+* Esse resultado é uma possível solução para o problema e uma retomada da citação apresentada na introdução.
 
 Resumo:
 1. Introdução = Citação => Apresentar o problema => Apresentar posição sobre o problema com 2 argumentos
@@ -165,7 +165,7 @@ Resumo:
 27. Devido a.
 28. Além disso.
 29. Em paralelo.
-30. Adicionalente.
+30. Adicionalmente.
 31. Bem como.
 32. Do mesmo modo.
 33. Outrossim.
@@ -223,16 +223,14 @@ Resumo:
 22. "Não é da benevolência do padeiro, do açougueiro ou do cervejeiro que eu espero que saia o meu jantar, mas sim do empenho deles em promover seu auto-interesse." (Adam Smith - Economista)
 23. "O homem não é nada além daquilo que a educação faz dele." (Kant - Filósofo)
 24. "O que não provoca minha morte faz com que eu fique mais forte."(Nietzsche - Filósofo)
-25. "A história da sociedade até aos nossos dias é a história da luta de classes." (Marx - Filósofo)
-26. "Os limites de minha linguagem significam os limites de meu mundo." (Wittgenstein - Filósofo)
-27. "Não se nasce mulher: torna-se." (Beauvoir - Filósofa)
-28. "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós."(Sartre - Filósofo)
-29. "A única coisa que podemos ter certeza, é a incerteza." (Bauman - Filósofo)
-30. "Preconceito é opinião sem conhecimento." (Voltaire - Filósofo)
-31. "A inclusão acontece quando se aprende com as diferenças e não com as igualdades." (Paulo Freire - Educador)
-32. "Ler um bom livro é como conversar com as melhores mentes do passado." (Descartes - Filósofo)
-33. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
-34. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
+25. "Os limites de minha linguagem significam os limites de meu mundo." (Wittgenstein - Filósofo)
+26. "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós."(Sartre - Filósofo)
+27. "A única coisa que podemos ter certeza, é a incerteza." (Bauman - Filósofo)
+28. "Preconceito é opinião sem conhecimento." (Voltaire - Filósofo)
+29. "A inclusão acontece quando se aprende com as diferenças e não com as igualdades." (Paulo Freire - Educador)
+30. "Ler um bom livro é como conversar com as melhores mentes do passado." (Descartes - Filósofo)
+31. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
+32. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
 
 > #### ARGUMENTOS
 * Tipos de argumentos:
