@@ -232,6 +232,20 @@ Resumo:
 31. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
 32. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
 
+> #### DADOS
+* Tipos de dados:
+  - Alusões históricas
+  - Relação entre fatos, situações ou épocas/lugares diferentes
+  - Dados estatísticos
+  - Exemplos
+  - Fatos comprováveis
+  - Narrativas ilustrativas
+  - Pesquisas
+
+Exemplos:
+1. 
+
+
 > #### ARGUMENTOS
 * Tipos de argumentos:
   - Exemplificação
