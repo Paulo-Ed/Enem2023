@@ -214,7 +214,7 @@ Ex: 4 x 2 = 8
 Ex: (2 x 5) x 4  =  2 x (4 x 5)   
 
 ##### ELEMENTO NEUTRO
-* O um é o elemento neutro de uma multiplicação, dessa forma todo número multiplicado por um é igual ao prório número.
+* O um é o elemento neutro de uma multiplicação, dessa forma todo número multiplicado por um é igual ao próprio número.
 * Representação:
   - a x 1 = a
 

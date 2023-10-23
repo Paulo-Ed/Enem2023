@@ -79,7 +79,7 @@ Ex: -6 = -12/2
    - I = {e, π, √2, ...}
 
 ##### PROPRIEDADES
-* Os números irracionais poderm ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
+* Os números irracionais podem ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
 
 Ex: 1,41413...
 Ex: 3,141592...
