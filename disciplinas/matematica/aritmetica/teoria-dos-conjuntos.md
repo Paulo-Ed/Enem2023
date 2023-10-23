@@ -22,7 +22,7 @@ Ex: B = {1, 2, 3, 4}
 2. 10 ∉ B  
 
 ##### RELAÇÃO DE INCLUSÃO
-* Indica se um conjunto A está contido no conjunto B, se A não está contido no conjunto B, se se B contem o conjunto A, ou se B não contém o conjunto A.
+* Indica se um conjunto A está contido no conjunto B, se A não está contido no conjunto B, se B contém o conjunto A, ou se B não contém o conjunto A.
 * Representação:
   - **A** ⊂ **B** (**A** está contido em **B**)
   - **A** ⊄ **B** (**A** não está contido em **B**)
@@ -35,10 +35,31 @@ Ex: A = {1, 2}; B = {1, 2, 3, 4} e C = {11, r}
 3. B ⊃ A
 4. B ⊅ C
 
+##### CONJUNTO UNITÁRIO
+* É um conjunto formado por um único elemento.
+* Representação:
+  - A = {2} (Primo par)
+
 ##### CONJUNTO VAZIO
 * O conjunto vazio é um conjunto que não possui elementos.
 * Representação:
   - {} ou ∅
+
+##### CONJUNTO UNIVERSO
+* É o conjunto que possui todos os elementos de um determinado contexto, sendo representado pela letra U.
+* Representação:
+  - U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} (Números menores que 10)
+
+##### SUBCONJUNTOS
+* São conjuntos formados a partir de um outro conjunto.
+* As partes de um conjunto A, é o conjunto formado por todos os subconjuntos de A.
+* Representação:
+  - A = {0, 1, 2} 
+  - P(A) = {{0}, {1}, {2}, {0, 1}, {0, 2}, {1, 2}, {0, 1, 2}, ∅}
+* Fórmula dos subconjuntos:
+  - P = 2<sup>n</sup>
+  - P = Partes do conjunto
+  - n = número de elementos do conjunto
 
 > #### OPERAÇÕES ENTRE CONJUNTOS
 
