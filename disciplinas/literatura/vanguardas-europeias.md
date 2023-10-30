@@ -15,7 +15,7 @@
 
 > #### CUBISMO
 * Fragmentar a realidade como forma de questionar a limitação do campo de visão humana.
-* Quebrar os objetos em cubos para mostrar todos os lados de forma simultanea, quebrando a perspectiva tradicional.
+* Quebrar os objetos em cubos para mostrar todos os lados de forma simultânea, quebrando a perspectiva tradicional.
 * Artistas importantes: Pablo Picasso e Georges Braque.
 * Obra importante: 
   - Violino e uvas 
@@ -34,12 +34,12 @@
 * Arte metalinguística pautada pela espontaneidade, no absurdo, na irracionalidade.
 * Trabalho com o ilógico, com a arte sem sentido fomentando a provocação.
 * Tornar arte objetos do cotidiano.
-* Artistas importantes: Marcel Duchamp Hugo Ball.
+* Artistas importantes: Marcel Duchamp e Hugo Ball.
 * Obra importante: 
   - A fonte
 
 > #### SURREALISMO
-* Arte criada a partir da espontaneidade, focada na forma psicológica, ligada ao inconsciente aos sonhos.
+* Arte criada a partir da espontaneidade, focada na forma psicológica, ligada ao inconsciente, aos sonhos.
 * Trabalho sobre a influência da psicanálise e da interpretação dos sonhos.
 * Retratação de fatores reprimidos (afetivamente, emocionalmente, sexualmente) que são expressos pelo inconsciente. 
 * Associação ilógica como expressão do inconsciente.

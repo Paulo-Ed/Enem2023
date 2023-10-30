@@ -2,7 +2,7 @@
 
 ## Figuras de Linguagem
 * Denotação, se trata do uso da palavra pelo seu significado literal.
-* Conotação, se trata do uso da linguagem no sentido figurado (onde entra as figuras de linguagem).
+* Conotação, se trata do uso da linguagem no sentido figurado (onde entram as figuras de linguagem).
 
 > #### COMPARAÇÃO
 * Quando se compara algo, usando os conectivos: como, assim, tal qual.
@@ -67,7 +67,7 @@ Ex: A minha alma tá armada e apontada.
 > #### PLEONASMO
 * Uso de expressões redundantes para reforçar uma ideia.
 
-Ex: homorragia de sangue.
+Ex: hemorragia de sangue.
 
 > #### ONOMATOPEIA
 * Reprodução da escrita de um som.

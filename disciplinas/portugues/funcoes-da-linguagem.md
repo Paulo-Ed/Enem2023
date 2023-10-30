@@ -19,7 +19,7 @@
   - Ênfase na informação
   - Conhecimento e esclarecimento
   - Linguagem denotativa (literal)
-  - 3º pessoa (impessoalidade)
+  - 3ª pessoa (impessoalidade)
 * Exemplos:
   - Teses
   - Textos jornalísticos

@@ -44,7 +44,7 @@
   - Cardápio
 
 ##### DISSERTAÇÃO
-* É um texto que apresenta e desenvolve sobre um determinado tema ou assunto  podendo ter uma posicão sobre o que é apresentado. 
+* É um texto que apresenta e desenvolve sobre um determinado tema ou assunto  podendo ter uma posição sobre o que é apresentado. 
 * O posicionamento sobre o texto se da pela argumentação, avaliações, justificativas, conceitos e exemplos.
 * Estrutura da dissertação:
   - Introdução (Apresentação da tese, ideia principal a ser desenvolvida)
