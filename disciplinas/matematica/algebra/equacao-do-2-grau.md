@@ -1,4 +1,14 @@
+# ALGEBRA
+A álgebra estuda a manipulação de equações, operações matemáticas, polinômios e estruturas algébricas.
+
+<br>
+
+## Equação do 2º grau
 
 > #### BHASKARA
 
-> #### SOMA E PRODUTO
+> #### PROPRIEDADES DA RAÍZES
+
+##### SOMA
+
+##### PRODUTO
