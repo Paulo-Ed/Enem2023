@@ -243,8 +243,20 @@ Resumo:
   - Pesquisas
 
 Exemplos:
-1. 
-
+1. Desemprego de 8% no segundo trimestre 2023, segundo o IBGE.
+2. Analfabetismo de 5,6% em 2022, segundo o IBGE.
+3. Número de filhos por mulher de 1,76 em 2021, segundo o IBGE.
+4. Mortalidade de 11,20 a cada mil nascimentos em 2021, segundo o IBGE.
+5. Inflação de 5,19% nos últimos 12 meses, segundo o IBGE.
+6. Mulheres são 51% da população em 2022, segundo o IBGE.
+7. Coleta de lixo em 86% dos domicílios em 2022, segundo o IBGE.
+8. Sistema de esgoto em 63,2% dos domicílios em 2022, segundo o IBGE.
+9. Acesso a internet em 90% dos domicílios em 2021, segundo o IBGE.
+10. Prática de atividade física de pessoas de 15 anos ou mais em 2015 é de 37.9%, segundo o IBGE.
+11. 21 milhões de pessoas que não tem o que comer todos os dias em 2023 no Brasil, segundo a ONU.
+12. 70,3 milhões de pessoas em insegurança alimentar em 2023 no Brasil, segundo a ONU.
+13. Mulheres e pessoas negras são as que mais sofrem os impactos da desigualdade e também as que menos contam com representação política, no executivo, legislativa e judiciário, segundo o Observatório Brasileiro das Desigualdades.
+14. 10% mais ricos ganharam 31 vezes o salário dos mais pobres na regiões metropolitanas do país, segundo a 12ª edição do boletim desigualdade nas metrópolis de 2023.
 
 > #### ARGUMENTOS
 * Tipos de argumentos:
