@@ -257,6 +257,7 @@ Exemplos:
 12. 70,3 milhões de pessoas em insegurança alimentar em 2023 no Brasil, segundo a ONU.
 13. Mulheres e pessoas negras são as que mais sofrem os impactos da desigualdade e também as que menos contam com representação política, no executivo, legislativa e judiciário, segundo o Observatório Brasileiro das Desigualdades.
 14. 10% mais ricos ganharam 31 vezes o salário dos mais pobres na regiões metropolitanas do país, segundo a 12ª edição do boletim desigualdade nas metrópolis de 2023.
+15. MST é o maior produtor de arroz orgânico do Brasil, segundo a CUT.
 
 > #### ARGUMENTOS
 * Tipos de argumentos:
