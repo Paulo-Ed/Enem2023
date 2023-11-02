@@ -37,8 +37,20 @@ Ex: 2x<sup>2</sup> -3x -5 = 0
 x1 = (+3 + √49)/2.2 => (3 + 7)/4 => 10/4 => 5/2  
 x2 = (-3 + √49)/2.2 => (-3 + 7)/4 => -4/4 => -1 
 
-> #### PROPRIEDADES DA RAÍZES
+> #### PROPRIEDADES DA RAÍZES E COEFICIENTES (RELAÇÕES DE GIRARD)
+* Se trata das relações entre as raízes x1 e x2 de uma equação do 2º grau e os coeficientes que formam a equação.
+* Pode-se descobrir as raízes da equação através de um sistema de soma e produto em que os valores sejam os mesmos para os resultados das duas operações simultaneamente.
+* Representação Soma: 
+  - x1 + x2 = -b/a
+* Representação Produto: 
+  - x1 . x2 = c/a
 
-##### SOMA
+Ex: x<sup>2</sup> + 3x -10 = 0  
 
-##### PRODUTO
+x1 + x2 = 3/1  
+x1 . x2 = -10/1  
+
+2 + (-5) = -3  
+2 . (-5) = -10  
+
+S = {2, -5}
