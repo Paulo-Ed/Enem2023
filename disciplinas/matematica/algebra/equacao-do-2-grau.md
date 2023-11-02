@@ -15,7 +15,6 @@ A álgebra estuda a manipulação de equações, operações matemáticas, polin
 * A  equação do 2º grau pode ser completa (quando possui todos os coeficientes), ou incompleta (quando b ou c são igual a zero).
 
 Ex: 4x<sup>2</sup> - 16 = 0
-
 4x<sup>2</sup> = 16  
 x<sup>2</sup> = 16/4  
 x<sup>2</sup> = 4  
@@ -25,13 +24,18 @@ x = ±2
 > #### BHASKARA
 * É a fórmula utilizada para encontrar as raízes de uma equação do 2º grau completa.
 * Fórmula:
-  - x = ± √Δ/2a
+  - x = -b ± √Δ/2a
   - Δ = b<sup>2</sup> - 4ac
 * A partir do valor de delta é possível saber qual o número de raízes dessa equação.
 * Possibilidades:
   - Δ > 0 = Equação tem 2 raízes reais e distintas
   - Δ < 0 = Equação não possui raízes
   - Δ = 0 = Equação tem apenas uma raíz
+
+Ex: 2x<sup>2</sup> -3x -5 = 0  
+Δ = -3<sup>2</sup> - 4.2. (-5) => 9 - (-40) => 9 + 40 => 49  
+x1 = (+3 + √49)/2.2 => (3 + 7)/4 => 10/4 => 5/2  
+x2 = (-3 + √49)/2.2 => (-3 + 7)/4 => -4/4 => -1 
 
 > #### PROPRIEDADES DA RAÍZES
 
