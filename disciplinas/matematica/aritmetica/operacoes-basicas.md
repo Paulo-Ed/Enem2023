@@ -73,7 +73,7 @@ Ex: 10 + 7 = 17
 Ex: -4 + (-5) = -9
 
 ##### SINAIS DIFERENTES
-* Subtrai-se os valores mantem o sinal do maior número.
+* Subtrai-se os valores mantendo sinal do maior número.
 
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
@@ -151,7 +151,7 @@ Ex: 10 + 7 = 17
 Ex: -4 + (-5) = -9
 
 ##### SINAIS DIFERENTES
-* Subtrai-se os valores mantem o sinal do maior número.
+* Subtrai-se os valores mantendo o sinal do maior número.
 
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10

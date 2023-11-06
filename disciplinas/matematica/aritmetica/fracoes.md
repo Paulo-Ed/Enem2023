@@ -37,7 +37,7 @@ Ex: 8/3 = 2 2/3
 6. logo o resultado => 2 2/3
 
 ##### FRAÇÃO MISTA
-* Uma fração mista, é uma fração formada por uma por uma parte que representa a parte inteira e uma parte que representa a parte fracionária.
+* Uma fração mista, é uma fração formada por uma parte que representa a parte inteira e uma parte que representa a parte fracionária.
 * A fração mista é uma fração derivada de uma fração imprópria.
 
 Ex: 2 2/3 = 8/3

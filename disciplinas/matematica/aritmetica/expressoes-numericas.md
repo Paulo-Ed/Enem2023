@@ -10,7 +10,7 @@ Estudo das operações numéricas.
 > #### ORDEM DAS OPERAÇÕES
 1. Operações envoltas por parêntese (), colchetes [] e chaves {}.
 2. Potenciação e radiciação na ordem que aparecem, da esquerda para a direita.
-3. Multiplicação de divisão na ordem que aparecem, da esquerda para a direita.
+3. Multiplicação e divisão na ordem que aparecem, da esquerda para a direita.
 4. Soma e subtração na ordem que aparecem, da esquerda para a direita.
 
 Ex: (25 x 2 + 10) : 20 - 1

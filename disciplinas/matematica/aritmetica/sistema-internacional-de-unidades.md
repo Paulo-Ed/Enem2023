@@ -5,7 +5,7 @@ Estudo das operações numéricas.
 
 ## Sistema Internacional de Unidades
 * Determina as unidades de medida padrão e suas derivações.
-* Os prefixos que aparecem antes de uma unidade de medida, representam potências de 10, sendo um fator multiplicador associados aos múltiplos e submúltiplos das unidades.
+* Os prefixos que aparecem antes de uma unidade de medida, representam potências de 10, sendo um fator multiplicador associado aos múltiplos e submúltiplos das unidades.
 
 <div style="display:inline_block">
     <img align="left" height="250" width="500" alt="TypeScript" src="./../../img/prefixos-unidades-de-medida.png">
