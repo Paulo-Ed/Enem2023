@@ -24,7 +24,7 @@ Estudo das operações numéricas.
   - B e C = meios
 
 ##### IGUALDADE ENTRE DENOMINADORES A SEU RESPECTIVO NUMERADOR
-* A soma ou subtração entre dos denominadores pelos numeradores de cada razão de uma proporção não altera a proporção.
+* A soma ou subtração entre denominadores pelos numeradores de cada razão de uma proporção não altera a proporção.
 * Representação:
   - A/B = C/D = A + B/B = C + D/D
 
