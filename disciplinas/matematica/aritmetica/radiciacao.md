@@ -6,19 +6,19 @@ Estudo das operações numéricas.
 ## Radiciação
 * A radiciação é a operação matemática que procura determinar qual o número elevado a certa potência (multiplicado por si mesmo um determinado número de vezes) é igual a um outro número, ou seja, a sua raíz (origem).
 * A radiciação é a operação inversa da potenciação, dessa forma pode-se encontrar o resultado de uma raiz, procurando a potenciação que tem como resultado a raiz que se deseja encontrar.
-* Os termos da radiciação são o ***indice*** que define o expoente, o radical ***√*** que representa a operação e o ***radicando*** que representa o resultado da potência de um determinado número.
+* Os termos da radiciação são o ***índice*** que define o expoente, o radical ***√*** que representa a operação e o ***radicando*** que representa o resultado da potência de um determinado número.
 * O resultado da radiciação é chamado de ***raiz*** ou ***radical***.
 * Representação da radiciação:
   - <sup>n</sup>√a = b
-  - n = expoente
+  - n = índice (expoente)
   - a = radicando
   - b = raiz 
 * Prova real da radiciação:
   - <sup>n</sup>√a = b onde b<sup>n</sup> = a
 
 > #### CÁLCULO
-1. Identifica-se o expoente e o radicando.
-2. Procura-se determinar que número multiplicado por si mesmo o número de vezes correspondente ao expoente seja igual ao radicando.
+1. Identifica-se o índice (expoente) e o radicando.
+2. Procura-se determinar que número multiplicado por si mesmo o número de vezes correspondente ao índice (expoente) seja igual ao radicando.
 3. O número que tendo como o resultado de sua potência o radicando é o resultado.
 
 Ex: √16 = 4
