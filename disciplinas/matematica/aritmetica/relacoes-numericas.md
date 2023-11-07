@@ -62,10 +62,10 @@ Ex: 31 (não é divisível)
 * Um número é divisível por três, quando a soma dos algarismos que o formam, for um número divisível por três.
 
 Ex: 234 (é divisível)  
-Ex: 33 (não é divisível)  
+Ex: 34 (não é divisível)  
 
 ##### DIVISIBILIDADE POR QUATRO
-* Um número é divisível por quatro, quando os dois últimos algarismos forem um zero, ou quando a soma dos dois últimos algarismos formarem um número divisível por quatro.
+* Um número é divisível por quatro, quando os dois últimos algarismos forem um zero, ou quando os dois últimos algarismos formarem um número divisível por quatro.
 
 Ex: 1500 (é divisível)  
 Ex: 1031 (não é divisível)  
@@ -139,7 +139,7 @@ Ex: 12000 : 24 (é divisível)
 
 > #### NÚMEROS COMPOSTOS
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
-* Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto de números primos que o forma.
+* Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
 
 ##### DECOMPOSIÇÃO EM NÚMEROS PRIMOS OU FATORAÇÃO NUMÉRICA
 * É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
