@@ -6,7 +6,7 @@ Estudo das operações numéricas.
 ## Juros Simples
 * Se trata do cálculo de um acréscimo de valor, a partir de um valor inicial em relação ao tempo.
 * O cálculo é feito relacionando as variáveis que formam o juros simples.
-* As variáveis tempo e taxa de juros devem ser sempre calculadas estando expresas na mesma unidade. 
+* As variáveis tempo e taxa de juros devem ser sempre calculadas estando expressas na mesma unidade. 
 * As variáveis que formam o juros simples são:
   - Juros (Valor acrescido)
   - Capital (Valor inicial)

@@ -5,7 +5,7 @@ Estudo das operações numéricas.
 
 ## Juros Compostos
 * Se trata do cálculo de um acréscimo de valor, a partir do valor inicial, somado aos juros do período anterior em relação ao tempo.
-* As variáveis tempo e taxa de juros devem ser sempre calculadas estando expresas na mesma unidade. 
+* As variáveis tempo e taxa de juros devem ser sempre calculadas estando expressas na mesma unidade. 
 * As variáveis que formam o juros compostos são:
   - Montante (Valor inicial somado aos juros)
   - Juros (Valor acrescido)
