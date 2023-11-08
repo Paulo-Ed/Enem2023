@@ -8,7 +8,7 @@ A álgebra estuda a manipulação de equações, operações matemáticas, polin
 * Uma equação do 1º grau é uma expressão matemática com relação de igualdade entre termos conhecidos e desconhecidos em que o expoente dos termos desconhecidos é sempre 1.
 * Uma equação pode ter um ou mais termos desconhecidos.
 * O objetivo de uma equação é descobrir o valor dos termos desconhecidos, tornando a equação verdadeira (relação entre os membros), sendo que o valor que corresponde aos termos desconhecidos são chamados de ***raízes*** da equação.
-* Uma equação estabelece uma relação entre termos de um primeiro membro (esqueda da igualdade) e termos de um segundo membro (direita da igualdade), em que para um determinado valor desconhecido, essa igualdade se expressa como verdadeira.
+* Uma equação estabelece uma relação entre termos de um primeiro membro (esquerda da igualdade) e termos de um segundo membro (direita da igualdade), em que para um determinado valor desconhecido, essa igualdade se expressa como verdadeira.
 * Representação:
   - ax + b = 0
   - ax + b (1º membro)
@@ -52,24 +52,24 @@ S = {} ou ∅
 ##### MÉTODO DA SUBSTITUIÇÃO
 * Consiste em isolar um dos termos de uma das equações, encontrando a sua igualdade a partir da relação com o outro termo e então substituindo esse termo pela sua equivalência, tornando assim a equação com um único termo.
 
-Ex: 
-2x + y = 19
+Ex:   
+2x + y = 19  
 x + y = 11
 
 1. Isolar termo x da segunda equação => x = 11 - y
-2. Substituir x da primeira equação pela sua equivalência => 2x + 11 - x = 19
-3. Separar os termos => x = 19 - 11
-4. Encontrar valor de x => x = 8
-5. Encontrar valor de y => 8 + y = 11 => y = 11 - 3 => y = 3 
-6. Logo o resultado é S:{(8, 3)}
+2. Substituir x da primeira equação pela sua equivalência => 2(11 - y) + y = 19
+3. Separar os termos => 11 - 2y + y = 19 => y = 19 - 11
+4. Encontrar valor de y => y = 8
+5. Encontrar valor de x => x + 8 = 11 => x = 11 - 8 => x = 3 
+6. Logo o resultado é S:{(3, 8)}
 
 ***DICA***: Escolher isolar o termo que possuir coeficiente igual a 1.
 
 ##### MÉTODO DA ADIÇÃO
-* Consiste em somar as equações que formam o sistema, criando uma situação em que uma dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
+* Consiste em somar as equações que formam o sistema, criando uma situação em que um dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
 
-Ex: 
-x + 2y = 17
+Ex:   
+x + 2y = 17  
 x - 2y = -11
 
 ***DICA***: Quando os valores das equações não forem simétricos, multiplicar uma das equações por um número negativo, para igualar o coeficiente de um dos termos da equação e assim eliminar o termo, deixando apenas um termo a partir do resultado da adição das equações. Para descobrir o valor a ser multiplicado, basta verificar se o maior coeficiente de um dos termos de uma das equações é múltiplo do seu correspondente da outra equação.
@@ -82,8 +82,8 @@ x - 2y = -11
 ##### MÉTODO DA COMPARAÇÃO
 * Se trata de isolar o mesmo termo das duas equações, igualar as equivalência dos termos isolados e comparar seus valores, encontrando o valor correspondente a um dos termos das equações.
 
-Ex:
-x + y = 6
+Ex:  
+x + y = 6  
 x - y = 4
 
 1. Isolar os termos x de cada equação => x = 6 - y | x = 4 + y

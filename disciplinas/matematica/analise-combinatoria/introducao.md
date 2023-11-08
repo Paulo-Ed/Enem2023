@@ -26,12 +26,12 @@ Ex: 2! = 2 . 1 = 2
 Ex: 3! = 3 . 2 . 1 = 6  
 Ex: 4! = 4 . 3 . 2 . 1 = 24  
 
-OBS: Em um razão, o fatorial pode ser eliminado, igualando-se o numerador ao denominador.
+OBS: Em uma razão, o fatorial pode ser eliminado, igualando-se o numerador ao denominador.
 
 Ex: 4!/3! = 4 . 3!/3! = 4  
 
 > #### ARRANJO
-* Agrupamento de elementos em que a ordem importa, sendo o número de etapas igual ou menor que o número de opções. A característica dos elementos também é importa. (caracteristica para etapa)
+* Agrupamento de elementos em que a ordem importa, sendo o número de etapas igual ou menor que o número de opções. A característica dos elementos também importa. (característica para etapa)
 * Fórmula: 
   - A<sub>n,p</sub>= n!/(n - p!)
   - n = Total de opções

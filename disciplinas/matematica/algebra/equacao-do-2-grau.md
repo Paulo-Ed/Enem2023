@@ -9,16 +9,16 @@ A álgebra estuda a manipulação de equações, operações matemáticas, polin
   - ax<sup>2</sup> + bx + c = 0
   - x = icógnita
   - a, b e c = coeficientes
-* Uma equação do 2º grau é formado por icógnita e coeficientes, sendo esses números reais em que a é diferente de zero.
+* Uma equação do 2º grau é formada por icógnita e coeficientes, sendo esses números reais em que ***a*** é diferente de zero.
 * A resolução de uma equação do 2º grau, se da determinando os valores reais de x (raízes da equação), que tornam a equação verdadeira.
 * Uma equação do segundo grau tem no máximo duas raízes reais.
 * A  equação do 2º grau pode ser completa (quando possui todos os coeficientes), ou incompleta (quando b ou c são igual a zero).
 
-Ex: 4x<sup>2</sup> - 16 = 0
-4x<sup>2</sup> = 16  
-x<sup>2</sup> = 16/4  
-x<sup>2</sup> = 4  
-x = √4  
+Ex: 4x<sup>2</sup> - 16 = 0  
+4x<sup>2</sup> = 16    
+x<sup>2</sup> = 16/4    
+x<sup>2</sup> = 4    
+x = √4    
 x = ±2  
 
 > #### BHASKARA

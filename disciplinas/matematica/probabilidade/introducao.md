@@ -41,7 +41,7 @@ P(cara) = 1/2 = 50%
   - P(A) = Probabilidade de ocorrer o evento A
 
 > #### PROBABILIDADE CONDICIONAL
-* É a probabilidade que envolve um condição de um evento acontecer para que outro aconteça, ou seja, envolve dois eventos de um mesmo espaço amostral.
+* É a probabilidade que envolve uma condição de um evento acontecer para que outro aconteça, ou seja, envolve dois eventos de um mesmo espaço amostral.
 * Representação:
   - P(A/B) = P(A ∩ B)/ P(B) 
   - P(A/B) = Probabilidade de ocorrer o evento A, ocorrendo o evento B
