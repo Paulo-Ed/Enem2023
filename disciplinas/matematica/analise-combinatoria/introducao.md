@@ -8,9 +8,9 @@
 * Também chamado de princípio multiplicativo, define que em um evento, com n etapas, em que para cada etapa exista uma quantidade de opções de resultados (Elementos), o número total de possibilidades que formam o evento, é o produto do número das opções de cada etapa do evento.
 Ex: 5 camisas, 3 calças e 2 sapatos
 
-etapa 1 => 5
-etapa 2 => 3
-etapa 3 => 2
+etapa 1 => 5  
+etapa 2 => 3  
+etapa 3 => 2  
 
 número de possibilidades = 5 . 3 . 2 = 30 
 
